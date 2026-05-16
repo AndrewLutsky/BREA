@@ -1,0 +1,1840 @@
+,Region
+0,brain
+1,gray matter
+2,telencephalon
+3,cerebral cortex
+4,frontal lobe
+5,anterior orbital gyrus
+6,"anterior orbital gyrus, left"
+7,"anterior orbital gyrus, right"
+8,frontal operculum
+9,"frontal operculum, left"
+10,"frontal operculum, right"
+11,frontal pole
+12,"frontal pole, left"
+13,"frontal pole, left, superior aspect"
+14,"frontal pole, left, inferior aspect"
+15,"frontal pole, left, medial aspect"
+16,"frontal pole, right"
+17,"frontal pole, right, superior aspect"
+18,"frontal pole, right, inferior aspect"
+19,"frontal pole, right, medial aspect"
+20,gyrus rectus
+21,"gyrus rectus, left"
+22,"gyrus rectus, right"
+23,inferior frontal gyrus
+24,"inferior frontal gyrus, left"
+25,"inferior frontal gyrus, right"
+26,"inferior frontal gyrus, opercular part"
+27,"inferior frontal gyrus, opercular part, left"
+28,"inferior frontal gyrus, opercular part, right"
+29,"inferior frontal gyrus, orbital part"
+30,"inferior frontal gyrus, orbital part, left"
+31,"inferior frontal gyrus, orbital part, right"
+32,"inferior frontal gyrus, triangular part"
+33,"inferior frontal gyrus, triangular part, left"
+34,"inferior frontal gyrus, triangular part, right"
+35,inferior rostral gyrus
+36,"inferior rostral gyrus, left"
+37,"inferior rostral gyrus, right"
+38,lateral orbital gyrus
+39,"lateral orbital gyrus, left"
+40,"lateral orbital gyrus, right"
+41,medial orbital gyrus
+42,"medial orbital gyrus, left"
+43,"medial orbital gyrus, right"
+44,middle frontal gyrus
+45,"middle frontal gyrus, left"
+46,"middle frontal gyrus, left, superior bank of gyrus"
+47,"middle frontal gyrus, left, inferior bank of gyrus"
+48,"middle frontal gyrus, right"
+49,"middle frontal gyrus, right, superior bank of gyrus"
+50,"middle frontal gyrus, right, inferior bank of gyrus"
+51,olfactory area
+52,"olfactory area, left"
+53,"olfactory area, right"
+54,"paracentral lobule, anterior part"
+55,"paracentral lobule, anterior part, left"
+56,"paracentral lobule, anterior part, left, superior bank of gyrus"
+57,"paracentral lobule, anterior part, left, inferior bank of gyrus"
+58,"paracentral lobule, anterior part, right"
+59,"paracentral lobule, anterior part, right, superior bank of gyrus"
+60,"paracentral lobule, anterior part, right, inferior bank of gyrus"
+61,paraterminal gyrus
+62,"paraterminal gyrus, left"
+63,"paraterminal gyrus, right"
+64,parolfactory gyri
+65,"parolfactory gyri, left"
+66,"parolfactory gyri, right"
+67,posterior orbital gyrus
+68,"posterior orbital gyrus, left"
+69,"posterior orbital gyrus, right"
+70,precentral gyrus
+71,"precentral gyrus, left"
+72,"precentral gyrus, left, bank of the precentral sulcus"
+73,"precentral gyrus, left, superior lateral aspect of gyrus"
+74,"precentral gyrus, left, inferior lateral aspect of gyrus"
+75,"precentral gyrus, left, bank of the central sulcus"
+76,"precentral gyrus, right"
+77,"precentral gyrus, right, bank of the precentral sulcus"
+78,"precentral gyrus, right, superior lateral aspect of gyrus"
+79,"precentral gyrus, right, inferior lateral aspect of gyrus"
+80,"precentral gyrus, right, bank of the central sulcus"
+81,superior frontal gyrus
+82,"superior frontal gyrus, left"
+83,"superior frontal gyrus, left, medial bank of gyrus"
+84,"superior frontal gyrus, left, lateral bank of gyrus"
+85,"superior frontal gyrus, right"
+86,"superior frontal gyrus, right, medial bank of gyrus"
+87,"superior frontal gyrus, right, lateral bank of gyrus"
+88,superior rostral gyrus
+89,"superior rostral gyrus, left"
+90,"superior rostral gyrus, right"
+91,insula
+92,long insular gyri
+93,"long insular gyri, left"
+94,"long insular gyri, right"
+95,short insular gyri
+96,"short insular gyri, left"
+97,"short insular gyri, right"
+98,limbic lobe
+99,cingulate gyrus
+100,"cingulate gyrus, frontal part"
+101,"cingulate gyrus, frontal part, left"
+102,"cingulate gyrus, frontal part, left, superior bank of gyrus"
+103,"cingulate gyrus, frontal part, left, inferior bank of gyrus"
+104,"cingulate gyrus, frontal part, right"
+105,"cingulate gyrus, frontal part, right, superior bank of gyrus"
+106,"cingulate gyrus, frontal part, right, inferior bank of gyrus"
+107,"cingulate gyrus, parietal part"
+108,"cingulate gyrus, parietal part, left"
+109,"cingulate gyrus, parietal part, left, superior bank of gyrus"
+110,"cingulate gyrus, parietal part, left, inferior bank of gyrus"
+111,"cingulate gyrus, parietal part, right"
+112,"cingulate gyrus, parietal part, right, superior bank of gyrus"
+113,"cingulate gyrus, parietal part, right, inferior bank of gyrus"
+114,"cingulate gyrus, retrosplenial part"
+115,"cingulate gyrus, retrosplenial part, left"
+116,"cingulate gyrus, retrosplenial part, left, superior bank of gyrus"
+117,"cingulate gyrus, retrosplenial part, left, inferior bank of gyrus"
+118,"cingulate gyrus, retrosplenial part, right"
+119,"cingulate gyrus, retrosplenial part, right, superior bank of gyrus"
+120,"cingulate gyrus, retrosplenial part, right, inferior bank of gyrus"
+121,subcallosal cingulate gyrus
+122,"subcallosal cingulate gyrus, left"
+123,"subcallosal cingulate gyrus, right"
+124,hippocampal formation
+125,dentate gyrus
+126,"dentate gyrus, left"
+127,"dentate gyrus, right"
+128,CA1 field
+129,"CA1 field, left"
+130,"CA1 field, right"
+131,CA2 field
+132,"CA2 field, left"
+133,"CA2 field, right"
+134,CA3 field
+135,"CA3 field, left"
+136,"CA3 field, right"
+137,CA4 field
+138,"CA4 field, left"
+139,"CA4 field, right"
+140,indusium griseum
+141,"indusium griseum, left"
+142,"indusium griseum, right"
+143,subiculum
+144,"subiculum, left"
+145,"presubiculum, left"
+146,"parasubiculum, left"
+147,"prosubiculum, left"
+148,"subiculum proper, left"
+149,"subiculum, right"
+150,"presubiculum, right"
+151,"parasubiculum, right"
+152,"prosubiculum, right"
+153,"subiculum proper, right"
+154,parahippocampal gyrus
+155,"parahippocampal gyrus, left"
+156,"parahippocampal gyrus, left, lateral bank of gyrus"
+157,"parahippocampal gyrus, left, bank of the cos"
+158,"parahippocampal gyrus, right"
+159,"parahippocampal gyrus, right, lateral bank of gyrus"
+160,"parahippocampal gyrus, right, bank of the cos"
+161,piriform cortex
+162,"piriform cortex, left"
+163,"piriform cortex, right"
+164,occipital lobe
+165,cuneus
+166,"cuneus, left"
+167,"cuneus, left, peristriate"
+168,"cuneus, left, striate"
+169,"cuneus, right"
+170,"cuneus, right, peristriate"
+171,"cuneus, right, striate"
+172,inferior occipital gyrus
+173,"inferior occipital gyrus, left"
+174,"inferior occipital gyrus, left, superior bank of gyrus"
+175,"inferior occipital gyrus, left, inferior bank of gyrus"
+176,"inferior occipital gyrus, right"
+177,"inferior occipital gyrus, right, superior bank of gyrus"
+178,"inferior occipital gyrus, right, inferior bank of gyrus"
+179,lingual gyrus
+180,"lingual gyrus, left"
+181,"lingual gyrus, left, peristriate"
+182,"lingual gyrus, left, striate"
+183,"lingual gyrus, right"
+184,"lingual gyrus, right, peristriate"
+185,"lingual gyrus, right, striate"
+186,occipital pole
+187,"occipital pole, left"
+188,"occipital pole, left, superior aspect"
+189,"occipital pole, left, inferior aspect"
+190,"occipital pole, left, lateral aspect"
+191,"occipital pole, right"
+192,"occipital pole, right, superior aspect"
+193,"occipital pole, right, inferior aspect"
+194,"occipital pole, right, lateral aspect"
+195,occipito-temporal gyrus
+196,"occipito-temporal gyrus, left"
+197,"occipito-temporal gyrus, left, superior bank of gyrus"
+198,"occipito-temporal gyrus, left, inferior bank of gyrus"
+199,"occipito-temporal gyrus, right"
+200,"occipito-temporal gyrus, right, superior bank of gyrus"
+201,"occipito-temporal gyrus, right, inferior bank of gyrus"
+202,superior occipital gyrus
+203,"superior occipital gyrus, left"
+204,"superior occipital gyrus, left, superior bank of gyrus"
+205,"superior occipital gyrus, left, inferior bank of gyrus"
+206,"superior occipital gyrus, right"
+207,"superior occipital gyrus, right, superior bank of gyrus"
+208,"superior occipital gyrus, right, inferior bank of gyrus"
+209,parietal lobe
+210,inferior parietal lobule
+211,angular gyrus
+212,"angular gyrus, left"
+213,"angular gyrus, left, superior bank of gyrus"
+214,"angular gyrus, left, inferior bank of gyrus"
+215,"angular gyrus, right"
+216,"angular gyrus, right, superior bank of gyrus"
+217,"angular gyrus, right, inferior bank of gyrus"
+218,supramarginal gyrus
+219,"supramarginal gyrus, left"
+220,"supramarginal gyrus, left, superior bank of gyrus"
+221,"supramarginal gyrus, left, inferior bank of gyrus"
+222,"supramarginal gyrus, right"
+223,"supramarginal gyrus, right, superior bank of gyrus"
+224,"supramarginal gyrus, right, inferior bank of gyrus"
+225,"paracentral lobule, posterior part"
+226,"paracentral lobule, posterior part, left"
+227,"paracentral lobule, posterior part, left, lateral bank of gyrus"
+228,"paracentral lobule, posterior part, left, bank of cingulate sulcus"
+229,"paracentral lobule, posterior part, right"
+230,"paracentral lobule, posterior part, right, lateral bank of gyrus"
+231,"paracentral lobule, posterior part, right, bank of cingulate sulcus"
+232,postcentral gyrus
+233,"postcentral gyrus, left"
+234,"postcentral gyrus, left, bank of the central sulcus"
+235,"postcentral gyrus, left, superior lateral aspect of gyrus"
+236,"postcentral gyrus, left, inferior lateral aspect of gyrus"
+237,"postcentral gyrus, left, bank of the posterior central sulcus"
+238,"postcentral gyrus, right"
+239,"postcentral gyrus, right, bank of the central sulcus"
+240,"postcentral gyrus, right, superior lateral aspect of gyrus"
+241,"postcentral gyrus, right, inferior lateral aspect of gyrus"
+242,"postcentral gyrus, right, bank of the posterior central sulcus"
+243,precuneus
+244,"precuneus, left"
+245,"precuneus, left, superior lateral bank of gyrus"
+246,"precuneus, left, inferior lateral bank of gyrus"
+247,"precuneus, right"
+248,"precuneus, right, superior lateral bank of gyrus"
+249,"precuneus, right, inferior lateral bank of gyrus"
+250,superior parietal lobule
+251,"superior parietal lobule, left"
+252,"superior parietal lobule, left, superior bank of gyrus"
+253,"superior parietal lobule, left, inferior bank of gyrus"
+254,"superior parietal lobule, right"
+255,"superior parietal lobule, right, superior bank of gyrus"
+256,"superior parietal lobule, right, inferior bank of gyrus"
+257,temporal lobe
+258,fusiform gyrus
+259,"fusiform gyrus, left"
+260,"fusiform gyrus, left, bank of the its"
+261,"fusiform gyrus, left, lateral bank of gyrus"
+262,"fusiform gyrus, left, bank of cos"
+263,"fusiform gyrus, right"
+264,"fusiform gyrus, right, bank of the its"
+265,"fusiform gyrus, right, lateral bank of gyrus"
+266,"fusiform gyrus, right, bank of cos"
+267,Heschl's gyrus
+268,"Heschl's gyrus, left"
+269,"Heschl's gyrus, right"
+270,inferior temporal gyrus
+271,"inferior temporal gyrus, left"
+272,"inferior temporal gyrus, left, bank of the its"
+273,"inferior temporal gyrus, left, lateral bank of gyrus"
+274,"inferior temporal gyrus, left, bank of mts"
+275,"inferior temporal gyrus, right"
+276,"inferior temporal gyrus, right, bank of the its"
+277,"inferior temporal gyrus, right, lateral bank of gyrus"
+278,"inferior temporal gyrus, right, bank of mts"
+279,middle temporal gyrus
+280,"middle temporal gyrus, left"
+281,"middle temporal gyrus, left, superior bank of gyrus"
+282,"middle temporal gyrus, left, inferior bank of gyrus"
+283,"middle temporal gyrus, right"
+284,"middle temporal gyrus, right, superior bank of gyrus"
+285,"middle temporal gyrus, right, inferior bank of gyrus"
+286,planum polare
+287,"planum polare, left"
+288,"planum polare, right"
+289,planum temporale
+290,"planum temporale, left"
+291,"planum temporale, right"
+292,superior temporal gyrus
+293,"superior temporal gyrus, left"
+294,"superior temporal gyrus, left, lateral bank of gyrus"
+295,"superior temporal gyrus, left, inferior bank of gyrus"
+296,"superior temporal gyrus, right"
+297,"superior temporal gyrus, right, lateral bank of gyrus"
+298,"superior temporal gyrus, right, inferior bank of gyrus"
+299,temporal pole
+300,"temporal pole, left"
+301,"temporal pole, left, superior aspect"
+302,"temporal pole, left, inferior aspect"
+303,"temporal pole, left, medial aspect"
+304,"temporal pole, right"
+305,"temporal pole, right, superior aspect"
+306,"temporal pole, right, inferior aspect"
+307,"temporal pole, right, medial aspect"
+308,transverse gyri
+309,"transverse gyri, left"
+310,"transverse gyri, right"
+311,cerebral nuclei
+312,amygdala
+313,amygdalohippocampal transition zone
+314,"amygdalohippocampal transition zone, left"
+315,"amygdalohippocampal area, left"
+316,"amygdalohippocampal area, left, magnocellular division"
+317,"amygdalohippocampal area, left, parvocellular division"
+318,"amygdalohippocampal area, left, marginal layer"
+319,"amygdalohippocampal transition zone, right"
+320,"amygdalohippocampal area, right"
+321,"amygdalohippocampal area, right, magnocellular division"
+322,"amygdalohippocampal area, right, parvocellular division"
+323,"amygdalohippocampal area, right, marginal layer"
+324,anterior amygdaloid area
+325,"anterior amygdaloid area, left"
+326,"anterior amygdaloid area, left, dorsal division"
+327,"anterior amygdaloid area, left, ventral division"
+328,"anterior amygdaloid area, right"
+329,"anterior amygdaloid area, right, dorsal division"
+330,"anterior amygdaloid area, right, ventral division"
+331,basolateral nucleus
+332,"basolateral nucleus, left"
+333,"basolateral nucleus, left, magnocellular (dorsal)"
+334,"basolateral nucleus, left, dorsolateral division"
+335,"basolateral nucleus, left, intermediate"
+336,"basolateral nucleus, left, parvicellular (ventral)"
+337,"basolateral nucleus, left, ventrolateral division"
+338,"basolateral nucleus, left, ventromedial divison"
+339,"basolateral nucleus, right"
+340,"basolateral nucleus, right, magnocellular (dorsal)"
+341,"basolateral nucleus, right, dorsolateral division"
+342,"basolateral nucleus, right, intermediate"
+343,"basolateral nucleus, right, parvicellular (ventral)"
+344,"basolateral nucleus, right, ventrolateral division"
+345,"basolateral nucleus, right, ventromedial divison"
+346,basomedial nucleus
+347,"basomedial nucleus, left"
+348,"basomedial nucleus, left, dorsal division"
+349,"basomedial nucleus, left, magnocellular division"
+350,"basomedial nucleus, left, dorsolateral division"
+351,"basomedial nucleus, left, medial division"
+352,"basomedial nucleus, left, ventral division"
+353,"basomedial nucleus, left, parvicellular division"
+354,"basomedial nucleus, left, ventromedial division"
+355,"basomedial nucleus, right"
+356,"basomedial nucleus, right, dorsal division"
+357,"basomedial nucleus, right, magnocellular division"
+358,"basomedial nucleus, right, dorsolateral division"
+359,"basomedial nucleus, right, medial division"
+360,"basomedial nucleus, right, ventral division"
+361,"basomedial nucleus, right, parvicellular division"
+362,"basomedial nucleus, right, ventromedial division"
+363,central nucleus
+364,"central nucleus, left"
+365,"central nucleus, medial division, left"
+366,"central nucleus, medial division, left, dorsal part"
+367,"central nucleus, medial division, left, ventral part"
+368,"central nucleus, lateral division, left"
+369,"central nucleus, lateral division, left, apical part"
+370,"central nucleus, lateral division, left, capsular part"
+371,"central nucleus, lateral division, left, paracapsular part"
+372,"central nucleus, lateral division, left, central part"
+373,"central nucleus, right"
+374,"central nucleus, medial division, right"
+375,"central nucleus, medial division, right, dorsal part"
+376,"central nucleus, medial division, right, ventral part"
+377,"central nucleus, lateral division, right"
+378,"central nucleus, lateral division, right, apical part"
+379,"central nucleus, lateral division, right, capsular part"
+380,"central nucleus, lateral division, right, paracapsular part"
+381,"central nucleus, lateral division, right, central part"
+382,cortico-medial group
+383,"cortico-medial group, left"
+384,"anterior cortical nucleus, left"
+385,"anterior cortical nucleus, left, dorsal division"
+386,"anterior cortical nucleus, left, ventral division"
+387,"anterior cortical nucleus, left, marginal layer"
+388,"medial nucleus, left"
+389,"medial nucleus, left, anterior division"
+390,"medial nucleus, left, posterior division"
+391,"medial nucleus, left, posterior division, dorsal part"
+392,"medial nucleus, left, posterior division, ventral part"
+393,"medial nucleus, left, marginal layer"
+394,"posterior cortical nucleus, left"
+395,"posterior cortical nucleus, left, dorsal division"
+396,"posterior cortical nucleus, left, ventral division"
+397,"posterior cortical nucleus, left, marginal layer"
+398,"cortico-medial group, right"
+399,"anterior cortical nucleus, right"
+400,"anterior cortical nucleus, right, dorsal division"
+401,"anterior cortical nucleus, right, ventral division"
+402,"anterior cortical nucleus, right, marginal layer"
+403,"medial nucleus, right"
+404,"medial nucleus, right, anterior division"
+405,"medial nucleus, right, posterior division"
+406,"medial nucleus, right, posterior division, dorsal part"
+407,"medial nucleus, right, posterior division, ventral part"
+408,"medial nucleus, right, marginal layer"
+409,"posterior cortical nucleus, right"
+410,"posterior cortical nucleus, right, dorsal division"
+411,"posterior cortical nucleus, right, ventral division"
+412,"posterior cortical nucleus, right, marginal layer"
+413,intercalated nuclei
+414,"intercalated nuclei, left"
+415,"intercalated nuclei, right"
+416,lateral nucleus
+417,"lateral nucleus, left"
+418,"lateral nucleus, left, dorsal division"
+419,"lateral nucleus, left, dorsal anterior division"
+420,"lateral nucleus, left, dorsal medial division"
+421,"lateral nucleus, left, dorsal lateral division"
+422,"lateral nucleus, left, dorsal lateral division, comb-like part"
+423,"lateral nucleus, left, intermediate division"
+424,"lateral nucleus, left, ventral division"
+425,"lateral nucleus, left, ventral lateral division"
+426,"lateral nucleus, left, ventral medial division"
+427,"lateral nucleus, left, glomerular division"
+428,"lateral nucleus, right"
+429,"lateral nucleus, right, dorsal division"
+430,"lateral nucleus, right, dorsal anterior division"
+431,"lateral nucleus, right, dorsal medial division"
+432,"lateral nucleus, right, dorsal lateral division"
+433,"lateral nucleus, right, dorsal lateral division, comb-like part"
+434,"lateral nucleus, right, intermediate division"
+435,"lateral nucleus, right, ventral division"
+436,"lateral nucleus, right, ventral lateral division"
+437,"lateral nucleus, right, ventral medial division"
+438,"lateral nucleus, right, glomerular division"
+439,nucleus of the lateral olfactory tract
+440,"nucleus of the lateral olfactory tract, left"
+441,"nucleus of the lateral olfactory tract, right"
+442,paralaminar nucleus
+443,"paralmainar nucleus, left"
+444,"paralmainar nucleus, left, glomerular part"
+445,"paralmainar nucleus, right"
+446,"paralmainar nucleus, right, glomerular part"
+447,anterior olfactory nucleus
+448,"anterior olfactory nucleus, left"
+449,"anterior olfactory nucleus, right"
+450,basal forebrain
+451,septal nuclei
+452,"septal nuclei, left"
+453,"medial septal nucleus, left"
+454,"lateral septal nucleus, left"
+455,"septal nuclei, right"
+456,"medial septal nucleus, right"
+457,"lateral septal nucleus, right"
+458,substantia innominata
+459,"substantia innominata, left"
+460,"basal nucleus of meynert, left"
+461,"nucleus of the diagonal band, left"
+462,"nucleus of the diagonal band, left, horizontal division"
+463,"nucleus of the diagonal band, left, vertical division"
+464,"nucleus of the anterior commissure, left"
+465,"bed  nucleus of stria terminalis, left"
+466,"olfactory tubercle, left"
+467,"islands of calleja, left"
+468,"substantia innominata, right"
+469,"basal nucleus of meynert, right"
+470,"nucleus of the diagonal band, right "
+471,"nucleus of the diagonal band, right, horizontal division"
+472,"nucleus of the diagonal band, right, vertical division"
+473,"nucleus of the anterior commissure, right"
+474,"bed  nucleus of stria terminalis, right"
+475,"olfactory tubercle, right"
+476,"islands of calleja, right"
+477,basal ganglia
+478,globus pallidus
+479,"globus pallidus, external segment"
+480,"globus pallidus, external segment, left"
+481,"globus pallidus, external segment, right"
+482,"globus pallidus, internal segment"
+483,"globus pallidus, internal segment, left"
+484,"globus pallidus, internal segment, right"
+485,striatum
+486,caudate nucleus
+487,body of the caudate nucleus
+488,"body of caudate nucleus, left"
+489,"body of caudate nucleus, right"
+490,head of the caudate nucleus
+491,"head of caudate nucleus, left"
+492,"head of caudate nucleus, right"
+493,tail of the caudate nucleus
+494,"tail of caudate nucleus, left"
+495,"tail of caudate nucleus, right"
+496,nucleus accumbens
+497,"nucleus accumbens, left"
+498,"nucleus accumbens, right"
+499,putamen
+500,"putamen, left"
+501,"putamen, right"
+502,claustrum
+503,"claustrum, left"
+504,"claustrum, right"
+505,diencephalon
+506,epithalamus
+507,habenular nuclei
+508,"habenular nuclei, left"
+509,"lateral habenular nucleus, left"
+510,"lateral habenular nucleus, left, magnocellular division"
+511,"lateral habenular nucleus, left, parvocellular division"
+512,"medial habenular nucleus, left"
+513,"habenular nuclei, right"
+514,"lateral habenular nucleus, right"
+515,"lateral habenular nucleus, right, magnocellular division"
+516,"lateral habenular nucleus, right, parvocellular division"
+517,"medial habenular nucleus, right"
+518,paraventricular nuclei of thalamus
+519,"paraventricular nuclei, left of thalamus, left"
+520,"anterior paraventricular nucleus of thalamus, left"
+521,"posterior paraventricular nucleus of thalamus, left"
+522,"paraventricular nuclei, right of thalamus, right"
+523,"anterior paraventricular nucleus of thalamus, right"
+524,"posterior paraventricular nucleus of thalamus, right"
+525,pineal gland
+526,hypothalamus
+527,anterior hypothalamic region
+528,anterior hypothalamic area
+529,"anterior hypothalamic area, left"
+530,"anterior hypothalamic area, left, anterior part"
+531,"anterior hypothalamic area, left, central part"
+532,"anterior hypothalamic area, right"
+533,"anterior hypothalamic area, right, anterior part"
+534,"anterior hypothalamic area, right, central part"
+535,anterior hypothalamic nucleus
+536,"anterior hypothalamic nucleus, left"
+537,"anterior hypothalamic nucleus, right"
+538,"lateral hypothalamic area, anterior region"
+539,"lateral hypothalamic area, anterior region, left"
+540,"lateral hypothalamic area, anterior region, right"
+541,paraventricular nucleus of the hypothalamus
+542,"paraventricular nucleus of the hypothalamus, left"
+543,"subparaventricular zone, left"
+544,"paraventricular nucleus of the hypothalamus, left, descending division"
+545,"paraventricular nucleus of the hypothalamus, left, descending division, dorsal parvicellular part"
+546,"paraventricular nucleus of the hypothalamus, left, descending division, forniceal part"
+547,"paraventricular nucleus of the hypothalamus, left, descending division, lateral parvicellular part"
+548,"paraventricular nucleus of the hypothalamus, left, descending division, medial parvicellular part, ventral zone"
+549,"paraventricular nucleus of the hypothalamus, left, magnocellular division"
+550,"paraventricular nucleus of the hypothalamus, left, magnocellular division, anterior magnocellular part"
+551,"paraventricular nucleus of the hypothalamus, left, magnocellular division, medial magnocellular part"
+552,"paraventricular nucleus of the hypothalamus, left, magnocellular division, posterior magnocellular part"
+553,"paraventricular nucleus of the hypothalamus, left, magnocellular division, posterior magnocellular part, lateral zone"
+554,"paraventricular nucleus of the hypothalamus, left, magnocellular division, posterior magnocellular part, medial zone"
+555,"paraventricular nucleus of the hypothalamus, left, parvicellular division"
+556,"paraventricular nucleus of the hypothalamus, left, parvicellular division, anterior parvicellular part"
+557,"paraventricular nucleus of the hypothalamus, left, parvicellular division, medial parvicellular part, dorsal zone"
+558,"paraventricular nucleus of the hypothalamus, left, parvicellular division, periventricular part"
+559,"paraventricular nucleus of the hypothalamus, right"
+560,"subparaventricular zone, right"
+561,"paraventricular nucleus of the hypothalamus, right, descending division"
+562,"paraventricular nucleus of the hypothalamus, right, descending division, dorsal parvicellular part"
+563,"paraventricular nucleus of the hypothalamus, right, descending division, forniceal part"
+564,"paraventricular nucleus of the hypothalamus, right, descending division, lateral parvicellular part"
+565,"paraventricular nucleus of the hypothalamus, right, descending division, medial parvicellular part, ventral zone"
+566,"paraventricular nucleus of the hypothalamus, right, magnocellular division"
+567,"paraventricular nucleus of the hypothalamus, right, magnocellular division, anterior magnocellular part"
+568,"paraventricular nucleus of the hypothalamus, right, magnocellular division, medial magnocellular part"
+569,"paraventricular nucleus of the hypothalamus, right, magnocellular division, posterior magnocellular part"
+570,"paraventricular nucleus of the hypothalamus, right, magnocellular division, posterior magnocellular part, lateral zone"
+571,"paraventricular nucleus of the hypothalamus, right, magnocellular division, posterior magnocellular part, medial zone"
+572,"paraventricular nucleus of the hypothalamus, right, parvicellular division"
+573,"paraventricular nucleus of the hypothalamus, right, parvicellular division, anterior parvicellular part"
+574,"paraventricular nucleus of the hypothalamus, right, parvicellular division, medial parvicellular part, dorsal zone"
+575,"paraventricular nucleus of the hypothalamus, right, parvicellular division, periventricular part"
+576,"periventricular nucleus of the hypothalamus, anterior part"
+577,"periventricular nucleus of the hypohalamus, anterior part, left"
+578,"periventricular nucleus of the hypohalamus, anterior part, right"
+579,supraoptic nucleus
+580,"supraoptic nucleus, left"
+581,"supraoptic nucleus, left, dorsolateral part"
+582,"supraoptic nucleus, left, ventromedial part"
+583,"supraoptic nucleus, right"
+584,"supraoptic nucleus, right, dorsolateral part"
+585,"supraoptic nucleus, right, ventromedial part"
+586,suprachiasmatic nucleus
+587,"suprachiasmatic nucleus, left"
+588,"suprachiasmatic nucleus, left, dorsomedial part"
+589,"suprachiasmatic nucleus, left, ventrolateral part"
+590,"suprachiasmatic nucleus, right"
+591,"suprachiasmatic nucleus, right, dorsomedial part"
+592,"suprachiasmatic nucleus, right, ventrolateral part"
+593,mammillary region
+594,"lateral hypothalamic area, mammillary region"
+595,"lateral hypothalamic area, mammillary region, left"
+596,"pallidohypothalamic nucleus, left"
+597,"lateral hypothalamic area, mammillary region, right"
+598,"pallidohypothalamic nucleus, right"
+599,mammillary body
+600,"mammillary body, left"
+601,"lateral mammillary nucleus, left"
+602,"medial mammillary nucleus, left"
+603,"medial mammillary nucleus, left, lateral part"
+604,"medial mammillary nucleus, left, medial part"
+605,"medial mammillary nucleus, left, basal division"
+606,"premammillary nucleus, left"
+607,"premammillary nucleus, left, dorsal part"
+608,"premammillary nucleus, left, ventral part"
+609,"mammillary body, right"
+610,"lateral mammillary nucleus, right"
+611,"medial mammillary nucleus, right"
+612,"medial mammillary nucleus, right, lateral part"
+613,"medial mammillary nucleus, right, medial part"
+614,"medial mammillary nucleus, right, basal division"
+615,"premammillary nucleus, right"
+616,"premammillary nucleus, right, dorsal part"
+617,"premammillary nucleus, right, ventral part"
+618,posterior hypothalamic area
+619,"posterior hypothalamic area, left"
+620,"posterior hypothalamic area, right"
+621,supramammillary nucleus
+622,"supramammillary nucleus, left"
+623,"supramammillary nucleus, left, medial part"
+624,"supramammillary nucleus, right"
+625,"supramammillary nucleus, right, medial part"
+626,tuberomammillary nucleus
+627,"tuberomammillary nucleus, left"
+628,"tuberomammillary nucleus, left, principle part"
+629,"tuberomammillary nucleus, right"
+630,"tuberomammillary nucleus, right, principle part"
+631,preoptic region
+632,"preoptic region, left"
+633,"intermediate hypothalamic nuclei, left"
+634,"intermediate nucleus, left"
+635,"uncinate nucleus, left"
+636,"lateral preoptic area, left"
+637,"medial preoptic area, left"
+638,"medial preoptic nucleus, left"
+639,"medial preoptic nucleus, left, central part"
+640,"medial preoptic nucleus, left, lateral part"
+641,"medial preoptic nucleus, left, medial part"
+642,"median preoptic nucleus, left"
+643,"periventricular nucleus of the hypothalamus, left, preoptic part"
+644,"anteroventral periventricular nucleus, left"
+645,"dorsal periventricular nucleus, left"
+646,"preoptic region, right"
+647,"intermediate hypothalamic nuclei, right"
+648,"intermediate nucleus, right"
+649,"uncinate nucleus, right"
+650,"lateral preoptic area, right"
+651,"medial preoptic area, right"
+652,"medial preoptic nucleus, right"
+653,"medial preoptic nucleus, right, central part"
+654,"medial preoptic nucleus, right, lateral part"
+655,"medial preoptic nucleus, right, medial part"
+656,"median preoptic nucleus, right"
+657,"periventricular nucleus of the hypothalamus, right, preoptic part"
+658,"anteroventral periventricular nucleus, right"
+659,"dorsal periventricular nucleus, right"
+660,tuberal region
+661,pituitary body
+662,arcuate nucleus of the hypothalamus
+663,"arcuate nucleus of the hypothalamus, left"
+664,"arcuate nucleus of the hypothalamus, left, dorsal part"
+665,"arcuate nucleus of the hypothalamus, left, lateral part"
+666,"arcuate nucleus of the hypothalamus, left, medial part"
+667,"arcuate nucleus of the hypothalamus, right"
+668,"arcuate nucleus of the hypothalamus, right, dorsal part"
+669,"arcuate nucleus of the hypothalamus, right, lateral part"
+670,"arcuate nucleus of the hypothalamus, right, medial part"
+671,dorsomedial hypothalamic nucleus
+672,"dorsomedial hypothalamic nucleus, left"
+673,"dorsomedial hypothalamic nucleus, left, compact part"
+674,"dorsomedial hypothalamic nucleus, left, diffuse part"
+675,"dorsomedial hypothalamic nucleus, right"
+676,"dorsomedial hypothalamic nucleus, right, compact part"
+677,"dorsomedial hypothalamic nucleus, right, diffuse part"
+678,"lateral hypothalamic area, tuberal region"
+679,"lateral hypothalamic area, tuberal region, left"
+680,"lateral hypothalamic area, tuberal region, right"
+681,lateral tuberal nucleus
+682,"lateral tuberal nucleus, left"
+683,"lateral tuberal nucleus, right"
+684,median eminence
+685,"median eminence, left"
+686,"median eminence, right"
+687,perifornical nucleus
+688,"perifornical nucleus, left"
+689,"perifornical nucleus, right"
+690,"periventricular nucleus of the hypothalamus, tuberal part"
+691,"periventricular nucleus of the hypothalamus, tuberal part, left"
+692,"periventricular nucleus of the hypothalamus, tuberal part, right"
+693,ventromedial hypothalamic nucleus
+694,"ventromedial hypothalamic nucleus, left"
+695,"ventromedial hypothalamic nucleus, left, dorsal part"
+696,"ventromedial hypothalamic nucleus, left, central part"
+697,"ventromedial hypothalamic nucleus, left, ventral part"
+698,"ventromedial hypothalamic nucleus, right"
+699,"ventromedial hypothalamic nucleus, right, dorsal part"
+700,"ventromedial hypothalamic nucleus, right, central part"
+701,"ventromedial hypothalamic nucleus, right, ventral part"
+702,subthalamus
+703,"subthalamic nucleus, left"
+704,"subthalamic nucleus, right"
+705,thalamus
+706,dorsal thalamus
+707,anterior group of nuclei
+708,"anterior group of nuclei, left"
+709,"anterodorsal nucleus of the thalamus, left"
+710,"anteromedial nucleus of the thalamus, left"
+711,"anteroventral nucleus of the thalamus, left"
+712,"lateral dorsal nucleus of the thalamus, left"
+713,"anterior group of nuclei, right"
+714,"anterodorsal nucleus of the thalamus, right"
+715,"anteromedial nucleus of the thalamus, right"
+716,"anteroventral nucleus of the thalamus, right"
+717,"lateral dorsal nucleus of the thalamus, right"
+718,caudal group of intralaminar nuclei
+719,"caudal group of intralaminar nuclei, left"
+720,"centre median nucleus of the thalamus, left"
+721,"parafascicular nucleus of the thalamus, left"
+722,"caudal group of intralaminar nuclei, right"
+723,"centre median nucleus of the thalamus, right"
+724,"parafascicular nucleus of the thalamus, right"
+725,dorsal lateral geneiculate nucleus
+726,"dorsal lateral geniculate nucleus, left"
+727,"dorsal lateral geniculate nucleus, left, magnocellular layers"
+728,"dorsal lateral geniculate nucleus, left, parvocellular layers"
+729,"dorsal lateral geniculate nucleus, left, s and intercalated layers"
+730,"dorsal lateral geniculate nucleus, right"
+731,"dorsal lateral geniculate nucleus, right, magnocellular layers"
+732,"dorsal lateral geniculate nucleus, right, parvocellular layers"
+733,"dorsal lateral geniculate nucleus, right, s and intercalated layers"
+734,lateral group of nuclei
+735,"lateral group of nuclei, dorsal division"
+736,"lateral group of nuclei, left, dorsal division"
+737,"lateral posterior nucleus of the thalamus, left"
+738,"anterior nucleus of the pulvinar, left"
+739,"inferior nucleus of the pulvinar, left"
+740,"inferior nucleus of the pulvinar, left, lateral division"
+741,"inferior nucleus of the pulvinar, left, medial division"
+742,"lateral nucleus of the pulvinar, left"
+743,"medial nucleus of the pulvinar, left"
+744,"lateral group of nuclei, right, dorsal division"
+745,"lateral posterior nucleus of the thalamus, right"
+746,"anterior nucleus of the pulvinar, right"
+747,"inferior nucleus of the pulvinar, right"
+748,"inferior nucleus of the pulvinar, right, lateral division"
+749,"inferior nucleus of the pulvinar, right, medial division"
+750,"lateral nucleus of the pulvinar, right"
+751,"medial nucleus of the pulvinar, right"
+752,"lateral group of nuclei, ventral division"
+753,"lateral group of nuclei, left, ventral division"
+754,"basal ventral medial nucleus of the thalamus, left"
+755,"ventral anterior nucleus of the thalamus, left"
+756,"ventral anterior nucleus of the thalamus, left, magnocellular division"
+757,"ventral anterior nucleus of the thalamus, left, principal division"
+758,"ventral lateral anterior nucleus of the thalamus, left"
+759,"ventral lateral posterior nucleus of the thalamus, left"
+760,"ventral medial nucleus of the thalamus, left"
+761,"ventral posterior inferior nucleus of the thalamus, left"
+762,"ventral posterior lateral nucleus of the thalamus, left"
+763,"ventral posterior lateral nucleus of the thalamus, left, anterior division"
+764,"ventral posterior lateral nucleus of the thalamus, left, posterior division"
+765,"ventral posterior medial nucleus of the thalamus, left"
+766,"lateral group of nuclei, right, ventral division"
+767,"basal ventral medial nucleus of the thalamus, right"
+768,"ventral anterior nucleus of the thalamus, right"
+769,"ventral anterior nucleus of the thalamus, right, magnocellular division"
+770,"ventral anterior nucleus of the thalamus, right, principal division"
+771,"ventral lateral anterior nucleus of the thalamus, right"
+772,"ventral lateral posterior nucleus of the thalamus, right"
+773,"ventral medial nucleus of the thalamus, right"
+774,"ventral posterior inferior nucleus of the thalamus, right"
+775,"ventral posterior lateral nucleus of the thalamus, right"
+776,"ventral posterior lateral nucleus of the thalamus, right, anterior division"
+777,"ventral posterior lateral nucleus of the thalamus, right, posterior division"
+778,"ventral posterior medial nucleus of the thalamus, right"
+779,medial geniculate complex
+780,"medial geniculate complex, left"
+781,"dorsal nucelus of medial geniculate complex, left"
+782,"anterodorsal nucleus of medial geniculate complex, left"
+783,"posterodorsal nucleus of medial geniculate complex, left"
+784,"magnocellular nucleus of the medial geniculate complex, left"
+785,"ventral nucleus of the medial geniculate complex, left"
+786,"medial geniculate complex, right"
+787,"dorsal nucelus of medial geniculate complex, right"
+788,"anterodorsal nucleus of medial geniculate complex, right"
+789,"posterodorsal nucleus of medial geniculate complex, right"
+790,"magnocellular nucleus of the medial geniculate complex, right"
+791,"ventral nucleus of the medial geniculate complex, right"
+792,medial group of nuclei
+793,"medial group of nuclei, left"
+794,"mediodorsal nucleus of the thalamus, left"
+795,"mediodorsal nucleus of the thalamus, left, parvocellular division"
+796,"mediodorsal nucleus of the thalamus, left, magnocellular division"
+797,"mediodorsal nucleus of the thalamus, left, densocelllular division"
+798,"mediodorsal nucleus of thalamus, left, multiform (lateral) division"
+799,"medioventral nucleus of the thalamus, left"
+800,"parataenial nucleus of the thalamus, left"
+801,"submedial nucleus of the thalamus, left"
+802,"medial group of nuclei, right"
+803,"mediodorsal nucleus of the thalamus, right"
+804,"mediodorsal nucleus of the thalamus, right, parvocellular division"
+805,"mediodorsal nucleus of the thalamus, right, magnocellular division"
+806,"mediodorsal nucleus of the thalamus, right, densocelllular division"
+807,"mediodorsal nucleus of thalamus, right, multiform (lateral) division"
+808,"medioventral nucleus of the thalamus, right"
+809,"parataenial nucleus of the thalamus, right"
+810,"submedial nucleus of the thalamus, right"
+811,posterior group of nuclei
+812,"posterior group of nuclei, left"
+813,"limitans nucleus of the thalamus, left"
+814,"posterior nucleus of the thalamus, left"
+815,"suprageniculate nucleus of the thalamus, left"
+816,"posterior group of nuclei, right"
+817,"limitans nucleus of the thalamus, right"
+818,"posterior nucleus of the thalamus, right"
+819,"suprageniculate nucleus of the thalamus, right"
+820,rostral group of intralaminar nuclei
+821,"rostral group of intralaminar nuclei, left"
+822,"central lateral nucleus of the thalamus, left"
+823,"central medial nucleus of the thalamus, left"
+824,"paracentral nucleus of the thalamus, left"
+825,"rhomboid nucleus of the thalamus, left"
+826,"rostral group of intralaminar nuclei, right"
+827,"central lateral nucleus of the thalamus, right"
+828,"central medial nucleus of the thalamus, right"
+829,"paracentral nucleus of the thalamus, right"
+830,"rhomboid nucleus of the thalamus, right"
+831,ventral thalamus
+832,"ventral thalamus, left"
+833,"nucleus of the H field of Forel, left"
+834,"reticular nucleus of thalamus, left"
+835,"zona incerta, left"
+836,"ventral thalamus, right"
+837,"nucleus of the H field of Forel, right"
+838,"reticular nucleus of thalamus, right"
+839,"zona incerta, right"
+840,mesencephalon
+841,midbrain tectum
+842,inferior colliculus
+843,"inferior colliculus, left"
+844,"central nucleus of the inferior colliculus, left"
+845,"external nucleus of the inferior colliculus, left"
+846,"pericentral nucleus of the inferior colliculus, left"
+847,"inferior colliculus, right"
+848,"central nucleus of the inferior colliculus, right"
+849,"external nucleus of the inferior colliculus, right"
+850,"pericentral nucleus of the inferior colliculus, right"
+851,intercollicular nucleus
+852,"intercollicular nucleus, left"
+853,"intercollicular nucleus, right"
+854,nucleus of the brachium of the inferior colliculus
+855,"nucleus of the brachium of the inferior colliculus, left"
+856,"nucleus of the brachium of the inferior colliculus, right"
+857,parabigeminal nucleus
+858,"parabigeminal nucleus, left"
+859,"parabigeminal nucleus, right"
+860,superior colliculus
+861,"superior colliculus, left"
+862,"stratum lemnisci of the superior colliculus, left"
+863,"deep gray layer of the superior colliculus, left"
+864,"deep white layer of the superior colliculus, left"
+865,"middle gray layer of the superior colliculus, left"
+866,"middle white layer of the superior colliculus, left"
+867,"superficial gray layer of the superior colliculus, left"
+868,"superficial white layer of the superior colliculus, left"
+869,"superior colliculus, right"
+870,"stratum lemnisci of the superior colliculus, right"
+871,"deep gray layer of the superior colliculus, right"
+872,"deep white layer of the superior colliculus, right"
+873,"middle gray layer of the superior colliculus, right"
+874,"middle white layer of the superior colliculus, right"
+875,"superficial gray layer of the superior colliculus, right"
+876,"superficial white layer of the superior colliculus, right"
+877,sagulum nucleus
+878,"sagulum nucleus, left"
+879,"sagulum, nucleus, right"
+880,subcommissural organ
+881,"subcommissural organ, left"
+882,"subcommissural organ, right"
+883,midbrain tegmentum
+884,central gray substance of midbrain
+885,"central gray substance of midbrain, left"
+886,"central gray substance of midbrain, left, dorsolateral division"
+887,"central gray substance of midbrain, left, dorsomedial division"
+888,"central gray substance of midbrain, left, lateral division"
+889,"central gray substance of midbrain, left, pleioglial division"
+890,"central gray substance of midbrain, left, ventrolateral division"
+891,"central gray substance of midbrain, right"
+892,"central gray substance of midbrain, right, dorsolateral division"
+893,"central gray substance of midbrain, right, dorsomedial division"
+894,"central gray substance of midbrain, right, lateral division"
+895,"central gray substance of midbrain, right, pleioglial division"
+896,"central gray substance of midbrain, right, ventrolateral division"
+897,Edinger-Westphal nucleus
+898,"Edinger-Westphal nucleus, left"
+899,"Edinger-Westphal nucleus, right"
+900,interpeduncular nucleus
+901,"interpeduncular nucleus, left"
+902,"interpeduncular nucleus, right"
+903,interstitial nucleus of Cajal
+904,"interstitial nucleus of Cajal, left"
+905,"interstitial nucleus of Cajal, right"
+906,isthmic reticular formation
+907,"isthmic reticular formation, left"
+908,"isthmic reticular formation, right"
+909,midbrain raphe nuclei
+910,"midbrain raphe nuclei, left"
+911,"dorsal raphe nucleus, left"
+912,"dorsal raphe nucleus, left, dorsal part"
+913,"dorsal raphe nucleus, left, interfascicular part"
+914,"dorsal raphe nucleus, left, raphe cap"
+915,"dorsal raphe nucleus, left, ventral part"
+916,"median raphe, left"
+917,"midbrain raphe nuclei, right"
+918,"dorsal raphe nucleus, right"
+919,"dorsal raphe nucleus, right, dorsal part"
+920,"dorsal raphe nucleus, right, interfascicular part"
+921,"dorsal raphe nucleus, right, raphe cap"
+922,"dorsal raphe nucleus, right, ventral part"
+923,"median raphe, right"
+924,midbrain reticular formation
+925,"midbrain reticular formation, left"
+926,"cuneiform nucleus, left"
+927,"pedunculopontine tegmental nucleus, left"
+928,"subcuneiform nucleus, left"
+929,"midbrain reticular formation, right"
+930,"cuneiform nucleus, right"
+931,"pedunculopontine tegmental nucleus, right"
+932,"subcuneiform nucleus, right"
+933,nucleus of Darkschewitsch
+934,"nucleus of Darkschewitsch, left"
+935,"nucleus of Darkschewitsch, right"
+936,nucleus of the posterior commissure
+937,"nucleus of the posterior commissure, left"
+938,"nucleus of the posterior commissure, right"
+939,oculomotor nuclear complex
+940,"oculomotor nuclear complex, left"
+941,"anterior median oculomotor nucleus, left"
+942,"caudal central oculomotor nucleus, left"
+943,"central oculomotor nucleus, left"
+944,"dorsal oculomotor nucleus, left"
+945,"intermediate oculomotor nucleus, left"
+946,"medial oculomotor nucleus, left"
+947,"ventral oculomotor nucleus, left"
+948,"oculomotor nuclear complex, right"
+949,"anterior median oculomotor nucleus, right"
+950,"caudal central oculomotor nucleus, right"
+951,"central oculomotor nucleus, right"
+952,"dorsal oculomotor nucleus, right"
+953,"intermediate oculomotor nucleus, right"
+954,"medial oculomotor nucleus, right"
+955,"ventral oculomotor nucleus, right"
+956,peripeduncular nucleus
+957,"peripeduncular nucleus, left"
+958,"peripeduncular nucleus, right"
+959,red nucleus
+960,"red nucleus, left"
+961,"magnocellular part of the red nucleus, left"
+962,"parvocellular part of the red nucleus, left"
+963,"red nucleus, right"
+964,"magnocellular part of the red nucleus, right"
+965,"parvocellular part of thered nucleus, right"
+966,rostral interstitial nucleus of the medial longitudinal fasciculus
+967,"rostral interstitial nucleus of the medial longitudinal fasciculus, left"
+968,"rostral interstitial nucleus of the medial longitudinal fasciculus, right"
+969,substantia nigra
+970,"substantia nigra, left"
+971,"substantia nigra, pars compacta, left"
+972,"substantia nigra, pars reticulata, left"
+973,"substantia nigra, right"
+974,"substantia nigra, pars compacta, right"
+975,"substantia nigra, pars reticulata, right"
+976,trochlear nucleus
+977,"trochlear nucleus, left"
+978,"trochlear nucleus, right"
+979,ventral tegmental area
+980,"ventral tegmental area, left"
+981,"caudal linear nucleus, left"
+982,"interfascicular nucleus, left"
+983,"parabrachial pigmented nucleus, left"
+984,"paranigral nucleus, left"
+985,"rostral linear nucleus, left"
+986,"ventral tegmental area, right"
+987,"caudal linear nucleus, right"
+988,"interfascicular nucleus, right"
+989,"parabrachial pigmented nucleus, right"
+990,"paranigral nucleus, right"
+991,"rostral linear nucleus, right"
+992,ventral tegmental nucleus
+993,"ventral tegmental nucleus, left"
+994,"ventral tegmental nucleus, right"
+995,pretectal region
+996,nucleus of the optic tract
+997,"nucleus of the optic tract, left"
+998,"nucleus of the optic tract, right"
+999,nucleus of the pretectal area
+1000,"nucleus of the pretectal area, left"
+1001,"nucleus of the pretectal area, right"
+1002,olivary pretectal nucleus
+1003,"olivary pretectal nucleus, left"
+1004,"olivary pretectal nucleus, right"
+1005,principal pretectal nucleus
+1006,"principal pretectal nucleus, left"
+1007,"principal pretectal nucleus, right"
+1008,sublentiform nucleus
+1009,"sublentiform nucleus, left"
+1010,"sublentiform nucleus, right"
+1011,metencephalon
+1012,cerebellum
+1013,cerebellar cortex
+1014,vermis
+1015,anterior lobe of the vermis
+1016,I-II
+1017,III
+1018,IV
+1019,V
+1020,posterior lobe of the vermis
+1021,VI
+1022,VIIAf
+1023,VIIAt
+1024,VIIB
+1025,VIIIA
+1026,VIIIB
+1027,IX
+1028,Flocculonodular Lobe of the Vermis
+1029,X
+1030,cerebellar hemispheres
+1031,Anterior Lobe
+1032,I-II
+1033,"I-II, left, paravermis"
+1034,"I-II, left, lateral hemisphere"
+1035,"I-II, right, paravermis"
+1036,"I-II, right, lateral hemisphere"
+1037,III
+1038,"III, left, paravermis"
+1039,"III, left, lateral hemisphere"
+1040,"III, right, paravermis"
+1041,"III, right, lateral hemisphere"
+1042,IV
+1043,"IV, left, paravermis"
+1044,"IV, left, lateral hemisphere"
+1045,"IV, right, paravermis"
+1046,"IV, right, lateral hemisphere"
+1047,V
+1048,"V, left, paravermis"
+1049,"V, left, lateral hemisphere"
+1050,"V, right, paravermis"
+1051,"V, right, lateral hemisphere"
+1052,Posterior Lobe
+1053,VI
+1054,"VI, left, paravermis"
+1055,"VI, left, lateral hemisphere"
+1056,"VI, right, paravermis"
+1057,"VI, right, lateral hemisphere"
+1058,crus I
+1059,"Crus I, left, paravermis"
+1060,"Crus I, left, lateral hemisphere"
+1061,"Crus I, right, paravermis"
+1062,"Crus I, right, lateral hemisphere"
+1063,crus II
+1064,"Crus II, left, paravermis"
+1065,"Crus II, left, lateral hemisphere"
+1066,"Crus II, right, paravermis"
+1067,"Crus II, right, lateral hemisphere"
+1068,VIIB
+1069,"VIIB, left, paravermis"
+1070,"VIIB, left, lateral hemisphere"
+1071,"VIIB, right, paravermis"
+1072,"VIIB, right, lateral hemisphere"
+1073,VIIIA
+1074,"VIIIA, left, paravermis"
+1075,"VIIIA, left, lateral hemisphere"
+1076,"VIIIA, right, paravermis"
+1077,"VIIIA, right, lateral hemisphere"
+1078,VIIIB
+1079,"VIIIB, left, paravermis"
+1080,"VIIIB, left, lateral hemisphere"
+1081,"VIIIB, right, paravermis"
+1082,"VIIIB, right, lateral hemisphere"
+1083,IX
+1084,"IX, left, paravermis"
+1085,"IX, left, lateral hemisphere"
+1086,"IX, right, paravermis"
+1087,"IX, right, lateral hemisphere"
+1088,flocculonodular lobe
+1089,X
+1090,"X, left, paravermis"
+1091,"X, left, lateral hemisphere"
+1092,"X, right, paravermis"
+1093,"X, right, lateral hemisphere"
+1094,cerebellar nuclei
+1095,dentate nucleus
+1096,"dentate nucleus, left"
+1097,"dentate nucleus, right"
+1098,emboliform nucleus
+1099,"emboliform nucleus, left"
+1100,"emboliform nucleus, right"
+1101,fastigial nucleus
+1102,"fastigial nucleus, left"
+1103,"fastigial nucleus, right"
+1104,globose nucleus
+1105,"globose nucleus, left"
+1106,"globose nucleus, right"
+1107,pons
+1108,basal part of pons
+1109,pontine nuclei
+1110,"pontine nuclei, left"
+1111,"pontine nuclei, right"
+1112,pontine tegmentum
+1113,abducens nucleus
+1114,"abducens nucleus, left"
+1115,"abducens nucleus, right"
+1116,accessory facial nucleus
+1117,"accessory facial nucleus, left"
+1118,"accessory facial nucleus, right"
+1119,accessory trigeminal nucleus
+1120,"accessory trigeminal nucleus, left"
+1121,"accessory trigeminal nucleus, right"
+1122,central gray of the pons
+1123,"central gray of the pons, left"
+1124,"central gray of the pons, right"
+1125,dorsal nucleus of lateral lemniscus
+1126,"dorsal nucleus of lateral lemniscus, left"
+1127,"dorsal nucleus of lateral lemniscus, right"
+1128,dorsomedial tegmental area
+1129,"dorsomedial tegmental area, left"
+1130,"dorsomedial tegmental area, right"
+1131,dorsal tegmental nucleus
+1132,"dorsal tegmental nucleus, left"
+1133,"dorsal tegmental nucleus, right"
+1134,facial motor nucleus
+1135,"facial motor nucleus, left"
+1136,"facial motor nucleus, left, lateral part"
+1137,"facial motor nucleus, left, intermediate part"
+1138,"facial motor nucleus, left, medial part"
+1139,"facial motor nucleus, left, perifacial zone"
+1140,"facial motor nucleus, left, ventral part"
+1141,"facial motor nucleus, left, ventrolateral part"
+1142,"facial motor nucleus, right"
+1143,"facial motor nucleus, right, lateral part"
+1144,"facial motor nucleus, right, intermediate part"
+1145,"facial motor nucleus, right, medial part"
+1146,"facial motor nucleus, right, perifacial zone"
+1147,"facial motor nucleus, right, ventral part"
+1148,"facial motor nucleus, right, ventrolateral part"
+1149,intermediate nucleus of lateral lemniscus
+1150,"intermediate nucleus of lateral lemniscus, left"
+1151,"intermediate nucleus of lateral lemniscus, right"
+1152,lateral dorsal tegmental nucleus
+1153,"lateral dorsal tegmental nucleus, left"
+1154,"lateral dorsal tegmental nucleus, right"
+1155,lateral parabrachial nucleus
+1156,"lateral parabrachial nucleus, left"
+1157,"lateral parabrachial nucleus, right"
+1158,locus ceruleus
+1159,"locus ceruleus, left"
+1160,"locus ceruleus, right"
+1161,medial parabrachial nucleus
+1162,"medial parabrachial nucleus, left"
+1163,"medial parabrachial nucleus,right"
+1164,nucleus subceruleus
+1165,"nucleus subceruleus, left"
+1166,"nucleus subceruleus, right"
+1167,pontine gamma nucleus
+1168,"pontine gamma nucleus, left"
+1169,"pontine gamma nucleus, right"
+1170,pontine raphe nucleus
+1171,"pontine raphe nucleus, left"
+1172,"pontine raphe nucleus,right"
+1173,paramedian pontine reticular formation
+1174,"pontine reticular formation, left"
+1175,"caudal pontine reticular nucleus, left"
+1176,"oral pontine reticular nucleus, left"
+1177,"reticulotegmental nucleus, left"
+1178,"pontine reticular formation, right"
+1179,"caudal pontine reticular nucleus, right"
+1180,"oral pontine reticular nucleus, right"
+1181,"reticulotegmental nucleus, right"
+1182,superior olivary complex
+1183,"superior olivary complex, left"
+1184,"periolivary nucleus, left"
+1185,"preolivary nucleus, left"
+1186,"retro-olivary cell group, left"
+1187,"superior olive, left"
+1188,"lateral superior olivary nucleus, left"
+1189,"medial superior olivary nucleus, left"
+1190,"superior paraolivary nucleus, left"
+1191,"trapezoid nuclei, left"
+1192,"superior olivary complex, right"
+1193,"periolivary nucleus, right"
+1194,"preolivary nucleus, right"
+1195,"retro-olivary cell group, right"
+1196,"superior olive, right"
+1197,"lateral superior olivary nucleus, right"
+1198,"medial superior olivary nucleus, right"
+1199,"superior paraolivary nucleus, right"
+1200,"trapezoid nuclei, right"
+1201,superior salivatory nucleus
+1202,"superior salivatory nucleus, left"
+1203,"superior salivatory nucleus, right"
+1204,trapezoid body
+1205,"trapezoid body, left"
+1206,"trapezoid body, right"
+1207,trigeminal nuclei
+1208,"trigeminal nuclei, left"
+1209,"mesencephalic nucleus of trigeminal nerve, left"
+1210,"motor nucleus of trigeminal nerve, left"
+1211,"principal sensory nucleus of trigeminal nerve, left"
+1212,"trigeminal nuclei, right"
+1213,"mesencephalic nucleus of trigeminal nerve, right"
+1214,"motor nucleus of trigeminal nerve, right"
+1215,"principal sensory nucleus of trigeminal nerve, right"
+1216,ventral nucleus of lateral lemniscus
+1217,"ventral nucleus of lateral lemniscus, left"
+1218,"ventral nucleus of lateral lemniscus, right"
+1219,myelencephalon
+1220,accessory cuneate nucleus
+1221,"accessory cuneate nucleus, left"
+1222,"accessory cuneate nucleus, right"
+1223,ambiguus nucleus
+1224,"ambiguus nucleus, left"
+1225,"ambiguus nucleus, right"
+1226,arcuate nucleus of medulla
+1227,"arcuate nucleus of medulla, left"
+1228,"arcuate nucleus of medulla, right"
+1229,area postrema
+1230,"area postrema, left"
+1231,"area postrema, right"
+1232,central glial substance
+1233,"central glial substance, left"
+1234,"central glial substance, right"
+1235,central gray of the medulla
+1236,"central gray of the medulla, left"
+1237,"central gray of the medulla, right"
+1238,cochlear nuclei
+1239,"cochlear nuclei, left"
+1240,"dorsal cochlear nucleus, left"
+1241,"ventral cochlear nuclei, left"
+1242,"anteroventral cochlear nucleus, left"
+1243,"posteroventral cochlear nucleus, left"
+1244,"cochlear nuclei, right"
+1245,"dorsal cochlear nucleus, right"
+1246,"ventral cochlear nuclei, right"
+1247,"anteroventral cochlear nucleus, right"
+1248,"posteroventral cochlear nucleus, right"
+1249,conterminalis
+1250,"conterminalis, left"
+1251,"conterminalis, right"
+1252,cuneate nucleus
+1253,"cuneate nucleus, left"
+1254,"cuneate nucleus, right"
+1255,dorsal motor nucleus of the vagus
+1256,"dorsal motor nucleus of the vagus, left"
+1257,"dorsal motor nucleus of the vagus, right"
+1258,endolemniscal nucleus
+1259,"endolemniscal nucleus, left"
+1260,"endolemniscal nucleus, right"
+1261,epifascicular nucleus
+1262,"epifascicular nucleus, left"
+1263,"epifascicular nucleus, right"
+1264,external (accessory/lateral) cuneate nucleus
+1265,"external (accessory/lateral) cuneate nucleus, left"
+1266,"external (accessory/lateral) cuneate nucleus, right"
+1267,gracile nucleus
+1268,"gracile nucleus, left"
+1269,"gracile nucleus, right"
+1270,hypoglossal nucleus
+1271,"hypoglossal nucleus, left"
+1272,"hypoglossal nucleus, right"
+1273,inferior olivary complex
+1274,"inferior olivary complex, left"
+1275,"dorsal accessory inferior olivary nucleus, left"
+1276,"medial accessory inferior olivary nucleus, left"
+1277,"principal inferior olivary nucleus, left"
+1278,"beta inferior olivary nucleus, left"
+1279,"inferior olivary complex, right"
+1280,"dorsal accessory inferior olivary nucleus, right"
+1281,"medial accessory inferior olivary nucleus, right"
+1282,"principal inferior olivary nucleus, right"
+1283,"beta inferior olivary nucleus, right"
+1284,inferior salivatory nucleus
+1285,"inferior salivatory nucleus, left"
+1286,"inferior salivatory nucleus, right"
+1287,intercalated nucleus
+1288,"intercalated nucleus, left"
+1289,"intercalated nucleus, right"
+1290,interfascicular hypoglossal nucleus
+1291,"interfascicular hypoglossal nucleus, left"
+1292,"interfascicular hypoglossal nucleus, right"
+1293,interpositus nucleus
+1294,"interpositus nucleus, left"
+1295,"interpositus nucleus, right"
+1296,lateral pericuneate nucleus
+1297,"lateral pericuneate nucleus, left"
+1298,"lateral pericuneate nucleus, right"
+1299,medial pericuneate nucleus
+1300,"medial pericuneate nucleus, left"
+1301,"medial pericuneate nucleus, right"
+1302,medullary reticular formation
+1303,central medullary reticular group
+1304,"central medullary reticular group, left"
+1305,"central reticular nucleus of the medulla, left"
+1306,"medial reticular nucleus of the medulla, left"
+1307,"ventral reticular nucleus of the medulla, left"
+1308,"intermediate zone, left"
+1309,"central medullary reticular group, right"
+1310,"central reticular nucleus of the medulla, right"
+1311,"medial reticular nucleus of the medulla, right"
+1312,"ventral reticular nucleus of the medulla, right"
+1313,"intermediate zone, right"
+1314,gigantocellular group
+1315,"gigantocellular group, left"
+1316,"dorsal paragigantocellular nucleus, left"
+1317,"lateral paragigantocellular nucleus, left"
+1318,"gigantocellular nucleus, left"
+1319,"gigantocellular nucleus, ventral part, left"
+1320,"paragigantocellular nucleus, alpha part, left"
+1321,"gigantocellular group, right"
+1322,"dorsal paragigantocellular nucleus, right"
+1323,"lateral paragigantocellular nucleus, right"
+1324,"gigantocellular nucleus, right"
+1325,"gigantocellular nucleus, ventral part, right"
+1326,"paragigantocellular nucleus, alpha part, right"
+1327,lateral medullary reticular group
+1328,"lateral medullary reticular group, left"
+1329,"epiolivary nucleus, left"
+1330,"lateral reticular nucleus, left"
+1331,"parvocellular division, left"
+1332,"subtrigeminal division, left"
+1333,"lateral medullary reticular group, right"
+1334,"epiolivary nucleus, right"
+1335,"lateral reticular nucleus, right"
+1336,"parvocellular division, right"
+1337,"subtrigeminal division, right"
+1338,parvicellular reticular nucleus
+1339,"parvicellular reticular nucleus, left"
+1340,"parvicellular reticular nucleus, right"
+1341,nucleus of Roller
+1342,"nucleus of Roller, left"
+1343,"nucleus of Roller, right"
+1344,paratrigeminal nucleus
+1345,"paratrigeminal nucleus, left"
+1346,"paratrigeminal nucleus, right"
+1347,peritrigeminal nucleus
+1348,"peritrigeminal nucleus, left"
+1349,"peritrigeminal nucleus, right"
+1350,pontobulbar nucleus
+1351,"pontobulbar nucleus, left"
+1352,"pontobulbar nucleus, right"
+1353,prepositus nucleus
+1354,"prepositus nucleus, left"
+1355,"prepositus nucleus, right"
+1356,raphe nuclei of medulla
+1357,nucleus raphe magnus
+1358,"nucleus raphe magnus, left"
+1359,"nucleus raphe magnus, right"
+1360,nucleus raphe obscurus
+1361,"nucleus raphe obscurus, left"
+1362,"nucleus raphe obscurus, right"
+1363,nucleus raphe pallidus
+1364,nucleus pararaphales
+1365,"nucleus pararaphales, left"
+1366,"nucleus pararaphales, right"
+1367,retroambiguus nucleus
+1368,"retroambiguus nucleus, left"
+1369,"retroambiguus nucleus, right"
+1370,solitary nucleus
+1371,"solitary nucleus, left"
+1372,"solitary nucleus, left, commissural subnucleus"
+1373,"solitary nucleus, left, dorsal subnucleus"
+1374,"solitary nucleus, left, dorsolateral subnucleus"
+1375,"solitary nucleus, left, gelantinosus subnucleus"
+1376,"solitary nucleus, left, interstitial subnucleus"
+1377,"solitary nucleus, left, intermediate subnucleus"
+1378,"solitary nucleus, left, meidal subnucleus"
+1379,"solitary nucleus, left, paracommissural part"
+1380,"solitary nucleus, left, ventral subnucleus"
+1381,"ventrolateral subnucleus of solitary tract, left"
+1382,"solitary nucleus, right"
+1383,"solitary nucleus, right, commissural subnucleus"
+1384,"solitary nucleus, right, dorsal subnucleus"
+1385,"solitary nucleus, right, dorsolateral subnucleus"
+1386,"solitary nucleus, right, gelantinosus subnucleus"
+1387,"solitary nucleus, right, interstitial subnucleus"
+1388,"solitary nucleus, right, intermediate subnucleus"
+1389,"solitary nucleus, right, meidal subnucleus"
+1390,"solitary nucleus, right, paracommissural part"
+1391,"solitary nucleus, right, ventral subnucleus"
+1392,"ventrolateral subnucleus of solitary tract, right"
+1393,spinal trigeminal nucleus
+1394,"spinal trigeminal nucleus, left"
+1395,"caudal spinal trigeminal nucleus, left"
+1396,"caudal spinal trigeminal nucleus, left, gelatenous part"
+1397,"caudal spinal trigeminal nucleus, left, magnocellular part"
+1398,"caudal spinal trigeminal nucleus, left, zonal part"
+1399,"interpolar part of spinal trigeminal nucleus, left"
+1400,"oral part of spinal trigeminal nucleus, left"
+1401,"spinal trigeminal nucleus, right"
+1402,"caudal spinal trigeminal nucleus, right"
+1403,"caudal spinal trigeminal nucleus, right, gelatenous part"
+1404,"caudal spinal trigeminal nucleus, right, magnocellular part"
+1405,"caudal spinal trigeminal nucleus, right, zonal part"
+1406,"interpolar part of spinal trigeminal nucleus, right"
+1407,"oral part of spinal trigeminal nucleus, right"
+1408,suprageniculate nucleus of the medulla
+1409,"suprageniculate nucleus of the medulla, left"
+1410,"suprageniculate nucleus of the medulla, right"
+1411,supraspinal nucleus
+1412,"supraspinal nucleus, left"
+1413,"supraspinal nucleus, right"
+1414,vestibular nuclei
+1415,"vestibular nuclei, left"
+1416,"lateral vestibular nucleus, left"
+1417,"medial vestibular nucleus, left"
+1418,"spinal vestibular nucleus, left"
+1419,"superior vestibular nucleus, left"
+1420,"vestibular nuclei, right"
+1421,"lateral vestibular nucleus, right"
+1422,"medial vestibular nucleus, right"
+1423,"spinal vestibular nucleus, right"
+1424,"superior vestibular nucleus, right"
+1425,white matter
+1426,telencephalic white matter
+1427,telencephalic commissures
+1428,anterior commissure
+1429,corpus callosum
+1430,body of the corpus callosum
+1431,genu of the corpus callosum
+1432,rostrum of the corpus callosum
+1433,splenium of the corpus callosum
+1434,radiations of corpus callosum
+1435,tapetum of corpus callosum
+1436,habenular commissure
+1437,hippocampal commissure
+1438,posterior commissure
+1439,supramamillary commissure
+1440,telencephalic white matter tracts
+1441,acoustic radiation
+1442,"acoustic radiation, left"
+1443,"acoustic radiation, right"
+1444,arcuate fasciculus
+1445,"arcuate fasciculus, left"
+1446,"arcuate fasciculus, right"
+1447,alveus
+1448,"alveus, left"
+1449,"alveus, right"
+1450,amygdalotegmental tract
+1451,"amygdalotegmental tract, left"
+1452,"amygdalotegmental tract, right"
+1453,angular bundle
+1454,"angular bundle, left"
+1455,"angular bundle, right"
+1456,ansa lenticularis
+1457,"ansa lenticularis, left"
+1458,"ansa lenticularis, right"
+1459,ansa peduncularis
+1460,"ansa peduncularis, left"
+1461,"ansa peduncularis, right"
+1462,bundle X
+1463,"bundle X, left"
+1464,"bundle X, right"
+1465,cingulum bundle
+1466,"cingulum bundle, left"
+1467,"cingulum bundle, right"
+1468,comb fibers
+1469,"comb fibers, left"
+1470,"comb fibers, right"
+1471,corona radiata
+1472,"corona radiata, left"
+1473,"corona radiata, right"
+1474,corticobulbar tract
+1475,"corticobulbar tract, supracapsular part"
+1476,"corticobulbar tract, supracapsular part, left"
+1477,"corticobulbar tract, supracapsular part, right"
+1478,"corticobulbar tract, infracapsular part"
+1479,"corticobulbar tract, infracapsular part, left"
+1480,"corticobulbar tract, infracapsular part, right"
+1481,external capsule
+1482,"external capsule, left"
+1483,"external capsule, right"
+1484,external medullary lamina of globus pallidus
+1485,"external medullary lamina of globus pallidus, left"
+1486,"external medullary lamina of globus pallidus, right"
+1487,external medullary lamina of thalamus
+1488,"external medullary lamina of thalamus, left"
+1489,"external medullary lamina of thalamus, right"
+1490,extreme capsule
+1491,"extreme capsule, left"
+1492,"extreme capsule, right"
+1493,fornix
+1494,"fornix, left"
+1495,"anterior column of the fornix, left"
+1496,"body of the fornix, left"
+1497,"fimbria, left"
+1498,"posterior column of the fornix, left"
+1499,"fornix, right"
+1500,"anterior column of the fornix, right"
+1501,"body of the fornix, right"
+1502,"fimbria, right"
+1503,"posterior column of the fornix, right"
+1504,inferior longitudinal fasciculus
+1505,"inferior longitudinal fasciculus, left"
+1506,"inferior longitudinal fasciculus, right"
+1507,inferior thalamic peduncle
+1508,"inferior thalamic peduncle, left"
+1509,"inferior thalamic peduncle, right"
+1510,internal capsule
+1511,"internal capsule, left"
+1512,"internal capsule, right"
+1513,internal medullary lamina of globus pallidus
+1514,"internal medullary lamina of globus pallidus, left"
+1515,"internal medullary lamina of globus pallidus, right"
+1516,internal medullary lamina of thalamus
+1517,"internal medullary lamina of thalamus, left"
+1518,"internal medullary lamina of thalamus, right"
+1519,lateral longitudinal stria
+1520,"lateral longitudinal stria, left"
+1521,"lateral longitudinal stria, right"
+1522,lenticular fasciculus
+1523,"lenticular fasciculus, left"
+1524,"lenticular fasciculus, right"
+1525,mammillary peduncle
+1526,"mammillary peduncle, left"
+1527,"mammillary peduncle, right"
+1528,mammillotegmental tract
+1529,"mammillotegmental tract, left"
+1530,"mammillotegmental tract, right"
+1531,mammillothalamic tract
+1532,"mammillothalamic tract, left"
+1533,"mammillothalamic tract, right"
+1534,medial forebrain bundle
+1535,"medial forebrain bundle, left"
+1536,"medial forebrain bundle, right"
+1537,medial longitudinal stria
+1538,"medial longitudinal stria, left"
+1539,"medial longitudinal stria, right"
+1540,Meyer's loop of optic radiation 
+1541,"Meyer's loop of optic radiation , left"
+1542,"Meyer's loop of optic radiation , right"
+1543,middle longitudinal fasciculus
+1544,"middle longitudinal fasciculus, left"
+1545,"middle longitudinal fasciculus, right"
+1546,occipitofrontal fasciculus
+1547,"occipitofrontal fasciculus, left"
+1548,"occipitofrontal fasciculus, right"
+1549,orbito-polar tract
+1550,"orbito-polar tract, left"
+1551,"orbito-polar tract, right"
+1552,perforant path
+1553,"perforant path, left"
+1554,"perforant path, right"
+1555,perpendicular fasciculus
+1556,"perpendicular fasciculus, left"
+1557,"perpendicular fasciculus, right"
+1558,pontine bundle
+1559,"pontine bundle, left"
+1560,"pontine bundle, right"
+1561,rostral thalamic peduncle
+1562,"rostral thalamic peduncle, left"
+1563,"rostral thalamic peduncle, right"
+1564,sagittal stratum
+1565,"sagittal stratum, left"
+1566,"external sagittal stratum, left"
+1567,"internal sagittal stratum, left"
+1568,"sagittal stratum, right"
+1569,"external sagittal stratum, right"
+1570,"internal sagittal stratum, right"
+1571,short association fibers
+1572,"short association fibers, left"
+1573,"short association fibers, right"
+1574,stratum zonale of thalamus
+1575,"stratum zonale of thalamus, left"
+1576,"stratum zonale of thalamus, right"
+1577,stria medullaris
+1578,"stria medullaris, left"
+1579,"stria medullaris, right"
+1580,stria terminalis
+1581,"stria terminalis, left"
+1582,"stria terminalis, right"
+1583,subcallosal fasciculus
+1584,"subcallosal fasciculus, left"
+1585,"subcallosal fasciculus, right"
+1586,subthalamic fasciculus
+1587,"subthalamic fasciculus, left"
+1588,"subthalamic fasciculus, right"
+1589,superficial presubicular path
+1590,"superficial presubicular path, left"
+1591,"superficial presubicular path, right"
+1592,superior longitudinal fasciculus
+1593,"superior longitudinal fasciculus, left"
+1594,"superior longitudinal fasciculus, right"
+1595,thalamic fasciculus
+1596,"thalamic fasciculus, left"
+1597,"thalamic fasciculus, right"
+1598,uncinate fasciculus of the forebrain
+1599,"uncinate fasciculus of the forebrain, left"
+1600,"uncinate fasciculus of the forebrain, right"
+1601,mesencephalic white matter
+1602,brachium of the inferior colliculus
+1603,"brachium of the inferior colliculus, left"
+1604,"brachium of the inferior colliculus, right"
+1605,brachium of the superior colliculus
+1606,"brachium of the superior colliculus, left"
+1607,"brachium of the superior colliculus, right"
+1608,"central tegmental tract, midbrain portion"
+1609,"central tegmental tract, midbrain portion, left"
+1610,"central tegmental tract, midbrain portion, right"
+1611,cerebral peduncle (crus cerebri)
+1612,"cerebral peduncle (crus cerebri), left"
+1613,"cerebral peduncle (crus cerebri), right"
+1614,commissure of the inferior colliculus
+1615,"commissure of the inferior colliculus, left"
+1616,"commissure of the inferior colliculus, right"
+1617,"corticobulbar tract, midbrain portion"
+1618,"corticobulbar tract, midbrain portion, left"
+1619,"corticobulbar tract, midbrain portion, right"
+1620,mesencephalic trigeminal tract
+1621,"mesencephalic trigeminal tract, left"
+1622,"mesencephalic trigeminal tract, right"
+1623,metencephalic white matter
+1624,cerebellar white matter tracts
+1625,inferior cerebellar peduncle
+1626,"inferior cerebellar peduncle, Left"
+1627,"inferior cerebellar peduncle, Right"
+1628,middle cerebellar peduncle
+1629,"middle cerebellar peduncle, Left"
+1630,"middle cerebellar peduncle, Right"
+1631,ponto-cerebellar tract
+1632,"ponto-cerebellar tract, left"
+1633,"ponto-cerebellar tract, right"
+1634,superior cerebellar peduncle
+1635,"superior cerebellar peduncle, Left"
+1636,"superior cerebellar peduncle, Right"
+1637,decussation of the superior cerebellar peduncle
+1638,pontine white matter tracts
+1639,cortico-pontine fibers
+1640,"cortico-pontine fibers, left"
+1641,"cortico-pontine fibers, right"
+1642,longitudinal fasciculus of the pons
+1643,"longitudinal fasciculus of the pons, left"
+1644,"longitudinal fasciculus of the pons, right"
+1645,myelencephalic white matter
+1646,cranial nerves
+1647,olfactory nerve
+1648,"olfactory nerve, left"
+1649,"olfactory tract, left"
+1650,"lateral olfactory tract, left"
+1651,"medial olfactory tract, left"
+1652,"olfactory bulb, left"
+1653,"olfactory nerve, right"
+1654,"olfactory tract, right"
+1655,"lateral olfactory tract, right"
+1656,"medial olfactory tract, right"
+1657,"olfactory bulb, right"
+1658,optic nerve
+1659,"optic nerve, left"
+1660,"optic tract, left"
+1661,"optic chiasm, left"
+1662,"optic radiations, left"
+1663,"supraoptic dicussation, left"
+1664,"optic nerve, right"
+1665,"optic tract, right"
+1666,"optic chiasm, right"
+1667,"optic radiations, right"
+1668,"supraoptic dicussation, right"
+1669,occulomotor nerve
+1670,"occulomotor nerve, left"
+1671,"occulomotor nerve, right"
+1672,trochlear nerve
+1673,"trochlear nerve, left"
+1674,"trochlear nerve, right"
+1675,trigeminal nerve
+1676,"trigeminal nerve, left"
+1677,"trigeminal nerve, right"
+1678,abducens nerve
+1679,"abducens nerve, left"
+1680,"abducens nerve, right"
+1681,facial nerve
+1682,"facial nerve, left"
+1683,"facial nerve, right"
+1684,vestibulocochlear nerve
+1685,"vestibulchochlear nerve, left"
+1686,"vestibulochochlear nerve, right"
+1687,glossopharyngeal nerve
+1688,"glossopharyngeal nerve, left"
+1689,"glossopharyngeal nerve, right"
+1690,vagus nerve
+1691,"vagus nerve, left"
+1692,"vagus nerve, right"
+1693,accessory nerve
+1694,"accessory nerve, left"
+1695,"accessory nerve, right"
+1696,hypoglossal nerve
+1697,"hypoglossal nerve, left"
+1698,"hypoglossal nerve, right"
+1699,amiculum of the olive
+1700,"amiculum of the olive, left"
+1701,"amiculum of the olive, right"
+1702,cuneate fasciculus
+1703,"cuneate fasciculus, left"
+1704,"cuneate fasciculus, right"
+1705,dorsal longitudinal fasciculus
+1706,"dorsal longitudinal fasciculus, Left"
+1707,"dorsal longitudinal fasciculus, Right"
+1708,medial longitudinal fasciculus
+1709,"medial longitudinal fasciculus, Left"
+1710,"medial longitudinal fasciculus, Right"
+1711,central tegmental tract
+1712,"central tegmental tract, Left"
+1713,"central tegmental tract, Right"
+1714,"corticobulbar tract, hindbrain portion"
+1715,"corticobulbar tract, hindbrain portion, left"
+1716,"corticobulbar tract, hindbrain portion, right"
+1717,corticospinal tract
+1718,"corticospinal tract, left"
+1719,"corticospinal tract, right"
+1720,fasciculus retroflexus
+1721,"fasciculus retroflexus, Left"
+1722,"fasciculus retroflexus, Right"
+1723,gracile fasciculus
+1724,"gracile fasciculus, left"
+1725,"gracile fasciculus, right"
+1726,hilus of the inferior olive
+1727,"hilus of the inferior olive, left"
+1728,"hilus of the inferior olive, right"
+1729,internal arcuate fibers
+1730,"internal arcuate fibers, left"
+1731,"internal arcuate fibers, right"
+1732,lateral lemniscus
+1733,"lateral lemniscus, Left"
+1734,"lateral lemniscus, Right"
+1735,medial lemniscus
+1736,"medial lemniscus, Left"
+1737,"medial lemniscus, Right"
+1738,decussation of medial lemniscus
+1739,pyramidal tract
+1740,"pyramidal tract, Left"
+1741,"pyramidal tract, Right"
+1742,pyramidal decussation
+1743,solitary tract
+1744,"solitary tract, left"
+1745,"solitary tract, right"
+1746,spinal lemniscus in hindbrain
+1747,"spinal lemniscus in hindbrain, left"
+1748,"spinal lemniscus in hindbrain, right"
+1749,spinal trigeminal tract
+1750,"spinal trigeminal tract, left"
+1751,"spinal trigeminal tract, right"
+1752,tectospinal tract
+1753,"tectospinal tract, left"
+1754,"tectospinal tract, right"
+1755,ventral tegmental tract
+1756,"ventral tegmental tract, left"
+1757,"ventral tegmental tract, right"
+1758,vestibulomesencephalic tract
+1759,"vestibulomesencephalic tract, left"
+1760,"vestibulomesencephalic tract, right"
+1761,sulci & spaces
+1762,telencephalic spaces
+1763,major divisions
+1764,callosal sulcus
+1765,central sulcus
+1766,longitudinal fissure
+1767,sylvian fissure
+1768,frontal lobe sulci
+1769,anteiror parolfactory sulcus
+1770,cingulate sulcus
+1771,frontomarginal sulcus
+1772,fronto-orbital sulcus
+1773,inferior frontal sulcus
+1774,inferior rostral sulcus
+1775,intermediate frontal sulcus
+1776,medial frontal sulcus
+1777,olfactory sulcus
+1778,orbital sulcus
+1779,paracentral sulcus
+1780,posterior parolfactory sulcus
+1781,precentral sulcus
+1782,superior frontal sulcus
+1783,superior rostral sulcus
+1784,insular lobe sulci
+1785,central sulcus of insula
+1786,circular sulcus
+1787,limbic lobe sulci
+1788,hippocampal sulcus
+1789,sulcus semi-anularis
+1790,uncal sulcus
+1791,occipital lobe sulci
+1792,calcarine sulcus
+1793,lateral occipital sulcus
+1794,lunate sulcus
+1795,parieto-occipital sulcus
+1796,preoccipital notch
+1797,transverse occipital sulcus
+1798,parietal lobe sulci
+1799,intraparietal sulcus
+1800,postcentral sulcus
+1801,primary intermediate sulcus
+1802,secondary intermediate sulcus
+1803,subparietal sulcus
+1804,superior parietal sulcus
+1805,temporal lobe sulci
+1806,angular sulcus
+1807,anterior occipital sulcus
+1808,collateral sulcus
+1809,inferior temporal sulcus
+1810,middle temporal sulcus
+1811,parahippocampal ramus
+1812,parahippocampal sulcus
+1813,rhinal sulcus
+1814,superior temporal sulcus
+1815,metencephalic spaces
+1816,cerebellar sulci
+1817,precentral fissure
+1818,preculminate fissure
+1819,intraculminate fissure
+1820,primary fissure
+1821,superior posterior fissure
+1822,horizontal fissure
+1823,ansoparamedian fissure
+1824,prepyramidal/prebiventer fissure
+1825,intrabiventer fissure
+1826,secondary fissure
+1827,posterolateral fissure
+1828,myelencephalic spaces
+1829,cerebral aquaduct
+1830,ventricles
+1831,lateral ventricle
+1832,septum pallucidum
+1833,choroid plexus of the lateral ventricle
+1834,third ventricle
+1835,choroid plexus of the third ventricle
+1836,fourth ventricle
+1837,choroid plexus of the fourth ventricle
+1838,central canal
