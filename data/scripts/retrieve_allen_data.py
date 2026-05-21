@@ -49,6 +49,7 @@ def store_words() -> None:
 def main():
 
     # Create and retrieve the words.
+    # Anna was here!
     store_words()
     print("Retrieved words and stored in ../Allen/*!")
 
