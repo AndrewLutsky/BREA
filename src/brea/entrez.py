@@ -1,10 +1,15 @@
-""" This module is primarily to run entrez queries """
+"""
+This module is primarily to run entrez queries.
+Author: Andrew Lutsky
+Date: 05/27/2026
+"""
+
 from Bio import Entrez
 
-def retrieve_pmids(keyword: str,
-                   additional_operators: list[str],
-                   api_key: str
-                   ) -> list[str]:
+
+def retrieve_pmids(
+    keyword: str, additional_operators: list[str], api_key: str
+) -> list[str]:
     """
     This retrieves pmids based off of a keyword
     and additional operators.
@@ -25,6 +30,3 @@ def retrieve_pmids(keyword: str,
         record = Entrez.read(handle)
 
     return record["IdList"]
-
-
-
