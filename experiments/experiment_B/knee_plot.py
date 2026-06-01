@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 from brea.scoring import grab_top_n_keywords
 
-def main(n_samples: int = 20):
+def main(n_samples: int = 100):
     """ Main fxn
     :param n_samples: Number of samples to randomly pull from without replacement.
     :type n_samples: int
@@ -34,17 +34,18 @@ def main(n_samples: int = 20):
     vectors = [tfidf_matrix[i] for i in sampled_idxs]
     keys = [keywords[i] for i in sampled_idxs]
     print(len(vectors), len(keys))
-    vectors = [grab_top_n_keywords(i, keywords) for i in vectors]
+    vectors = [grab_top_n_keywords(i, keywords, n = 200) for i in vectors]
     
     values = [[i[1] for i in vector] for vector in vectors]
 
     # PLOTTING
-    plt.figure(figsize=(10,10))
+    plt.figure(figsize=(20, 5))
     boxplot_data = list(zip(*values))
     plt.boxplot(boxplot_data)
     plt.xlabel("Keyword Rank Index")
     plt.ylabel("TF-IDF Value")
     plt.title(f"Elbow Plot of TFIDF Values(n = {n_samples})")
+    plt.xticks(rotation = 45)
     plt.savefig("TFIDF_Scores.png")
     return 
 

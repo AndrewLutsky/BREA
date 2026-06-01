@@ -32,7 +32,7 @@ def build_region_corpus(mouse: pd.DataFrame, abs_map: dict) -> tuple[list[str], 
         region = mouse['Region'].iloc[idx]
         pmids = parse_pmids(mouse['PMIDs'].iloc[idx])
         corpus_pmids = [int(x) for x in pmids if isinstance(abs_map.get(int(x)), str)]
-        abstracts = [abs_map[p] for p in corpus_pmids]
+        abstracts = [abs_map[p] for p in corpus_pmids][:100]
 
         if not abstracts:
             continue
@@ -85,9 +85,9 @@ def main():
         top = [(keywords[j], round(dense[i, j], 4)) for j in top_idx]
         print(f"  {region}: {top}")
 
-    # Save outputs
-    df.to_csv('region_keyword_matrix.csv', index=False)
-    print("\nSaved region_keyword_matrix.csv")
+    ## Save outputs
+    #df.to_csv('region_keyword_matrix.csv', index=False)
+    #print("\nSaved region_keyword_matrix.csv")
 
     # Also save the vectorizer and sparse matrix for downstream enrichment
     with open("region_keyword_matrix.pkl", "wb") as f:

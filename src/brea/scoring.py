@@ -55,52 +55,35 @@ class ScoringModule:
         """
         self.pickle_file = pickle_file
         self.mat, self.regions, self.keywords = load_pickle(self.pickle_file)
+         
+
+    def calculate_overlap_score(self,
+                                regions: list[str],
+                                n: int = 50,
+                                multi_set = True
+    ) -> dict[str, list[str]]: 
+        """
+        Creates a dictionary mapping regions to top n keywords.
+        """
+        region_dic = {}
+        for region in regions:
+            row = self.regions.index(region) 
+            region_dic[region] = grab_top_n_keywords(self.mat[row], self.keywords, n) 
+
+        # Find score across different regions
         
+        # Create set of keywords
+        keyword_set = set()
+        for _, val in region_dic.values():
+            for x in val:
+                keyword_set.add(x)
+        
+        # Iterate through keywords and find frac occurence.
+        score_dic = {}
+        for keyword in keyword_set:
+            count = sum(1 for val in region_dic.values() if keyword in val)
+            if not multi_set or count > 1:
+                score_dic[keyword] = count / tot
+        return score_dic
 
-    def calculate_overlap_score(regions: list[str],
-                                n: int = 50): 
 
-
-def overlap_score_brain_regions(
-    tfidf_mat: scipy.sparse.spmatrix,
-    regions: list[str],
-    keywords: list[str],
-    n: int = 50,
-) -> dict[str,]:
-    """
-    Score brain regions using a TF-IDF keyword representation.
-
-    This function evaluates each brain region based on the TF-IDF
-    representation of its associated keywords. Typically, the function
-    extracts the top-N weighted keywords per region and computes a
-    region-level score or ranking for downstream analysis and comparison.
-
-    :param tfidf_mat:
-        Sparse TF-IDF matrix of shape ``(n_regions, n_keywords)``,
-        where each row corresponds to a brain region and each column
-        corresponds to a keyword feature.
-    :type tfidf_mat: scipy.sparse.spmatrix
-
-    :param regions:
-        List of brain region names corresponding to the rows of
-        ``tfidf_mat``.
-    :type regions: list[str]
-
-    :param keywords:
-        List of keyword strings corresponding to the columns of
-        ``tfidf_mat``.
-    :type keywords: list[str]
-
-    :param n:
-        Number of top keywords to consider per region.
-    :type n: int
-
-    :returns:
-        Region scoring results. The exact structure depends on the
-        implemented scoring strategy.
-    :rtype:
-        Any
-    """
-
-    # TODO
-    pass
