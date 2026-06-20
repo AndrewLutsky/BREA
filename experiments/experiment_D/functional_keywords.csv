@@ -1,0 +1,196 @@
+function_category,function_label,keyword
+SENS_VIS,Visual processing,visual cortex
+SENS_VIS,Visual processing,visual processing
+SENS_VIS,Visual processing,visual perception
+SENS_VIS,Visual processing,retinotopic
+SENS_VIS,Visual processing,visual stimulus
+SENS_VIS,Visual processing,visual cue
+SENS_VIS,Visual processing,visual attention
+SENS_VIS,Visual processing,eye movement
+SENS_VIS,Visual processing,saccade
+SENS_VIS,Visual processing,visual discrimination
+SENS_VIS,Visual processing,looming stimulus
+SENS_VIS,Visual processing,visual threat
+SENS_AUD,Auditory processing,auditory cortex
+SENS_AUD,Auditory processing,sound processing
+SENS_AUD,Auditory processing,tonotopic
+SENS_AUD,Auditory processing,hearing
+SENS_AUD,Auditory processing,auditory stimulus
+SENS_AUD,Auditory processing,acoustic startle
+SENS_AUD,Auditory processing,vocalization processing
+SENS_AUD,Auditory processing,ultrasonic vocalization
+SENS_SOM,Somatosensory processing,somatosensory cortex
+SENS_SOM,Somatosensory processing,tactile
+SENS_SOM,Somatosensory processing,touch
+SENS_SOM,Somatosensory processing,whisker
+SENS_SOM,Somatosensory processing,barrel cortex
+SENS_SOM,Somatosensory processing,proprioception
+SENS_SOM,Somatosensory processing,vibrissae
+SENS_SOM,Somatosensory processing,mechanosensation
+SENS_OLF,Olfactory processing,olfaction
+SENS_OLF,Olfactory processing,odor
+SENS_OLF,Olfactory processing,olfactory bulb
+SENS_OLF,Olfactory processing,olfactory processing
+SENS_OLF,Olfactory processing,scent
+SENS_OLF,Olfactory processing,pheromone
+SENS_OLF,Olfactory processing,odorant
+SENS_GUST,Gustatory processing,taste
+SENS_GUST,Gustatory processing,gustatory cortex
+SENS_GUST,Gustatory processing,gustatory processing
+SENS_GUST,Gustatory processing,flavor
+SENS_GUST,Gustatory processing,taste aversion
+SENS_NOCI,Nociception / pain,pain
+SENS_NOCI,Nociception / pain,nociception
+SENS_NOCI,Nociception / pain,nociceptive
+SENS_NOCI,Nociception / pain,pain processing
+SENS_NOCI,Nociception / pain,analgesia
+SENS_NOCI,Nociception / pain,hyperalgesia
+SENS_NOCI,Nociception / pain,allodynia
+SENS_NOCI,Nociception / pain,noxious stimulus
+MOTOR,Motor control / movement,motor control
+MOTOR,Motor control / movement,locomotion
+MOTOR,Motor control / movement,voluntary movement
+MOTOR,Motor control / movement,motor cortex
+MOTOR,Motor control / movement,motor planning
+MOTOR,Motor control / movement,posture
+MOTOR,Motor control / movement,balance
+MOTOR,Motor control / movement,coordination
+MOTOR,Motor control / movement,gait
+MOTOR,Motor control / movement,motor learning
+MOTOR,Motor control / movement,fine motor
+MOTOR,Motor control / movement,skilled movement
+MOTOR,Motor control / movement,movement initiation
+EMOT_FEAR,Fear / anxiety / defensive behavior,fear
+EMOT_FEAR,Fear / anxiety / defensive behavior,anxiety
+EMOT_FEAR,Fear / anxiety / defensive behavior,anxiety-like behavior
+EMOT_FEAR,Fear / anxiety / defensive behavior,fear conditioning
+EMOT_FEAR,Fear / anxiety / defensive behavior,fear memory
+EMOT_FEAR,Fear / anxiety / defensive behavior,fear extinction
+EMOT_FEAR,Fear / anxiety / defensive behavior,defensive behavior
+EMOT_FEAR,Fear / anxiety / defensive behavior,threat response
+EMOT_FEAR,Fear / anxiety / defensive behavior,freezing behavior
+EMOT_FEAR,Fear / anxiety / defensive behavior,avoidance behavior
+EMOT_FEAR,Fear / anxiety / defensive behavior,fear expression
+EMOT_FEAR,Fear / anxiety / defensive behavior,innate fear
+EMOT_STRESS,Stress response,stress response
+EMOT_STRESS,Stress response,stress
+EMOT_STRESS,Stress response,hpa axis
+EMOT_STRESS,Stress response,corticosterone
+EMOT_STRESS,Stress response,cortisol
+EMOT_STRESS,Stress response,stress resilience
+EMOT_STRESS,Stress response,chronic stress
+EMOT_STRESS,Stress response,acute stress
+EMOT_STRESS,Stress response,stress-induced
+EMOT_STRESS,Stress response,glucocorticoid
+EMOT_REWARD,Reward / motivation,reward
+EMOT_REWARD,Reward / motivation,reward processing
+EMOT_REWARD,Reward / motivation,reinforcement
+EMOT_REWARD,Reward / motivation,motivation
+EMOT_REWARD,Reward / motivation,hedonic
+EMOT_REWARD,Reward / motivation,reward seeking
+EMOT_REWARD,Reward / motivation,incentive salience
+EMOT_REWARD,Reward / motivation,dopamine reward
+EMOT_REWARD,Reward / motivation,reward learning
+EMOT_REWARD,Reward / motivation,positive reinforcement
+EMOT_AGGR,Aggression,aggression
+EMOT_AGGR,Aggression,aggressive behavior
+EMOT_AGGR,Aggression,territorial behavior
+EMOT_AGGR,Aggression,agonistic behavior
+EMOT_AGGR,Aggression,attack behavior
+COG_LEARN_MEM,Learning and memory,learning
+COG_LEARN_MEM,Learning and memory,memory
+COG_LEARN_MEM,Learning and memory,memory consolidation
+COG_LEARN_MEM,Learning and memory,memory retrieval
+COG_LEARN_MEM,Learning and memory,memory formation
+COG_LEARN_MEM,Learning and memory,associative learning
+COG_LEARN_MEM,Learning and memory,long-term potentiation
+COG_LEARN_MEM,Learning and memory,synaptic plasticity
+COG_LEARN_MEM,Learning and memory,memory encoding
+COG_LEARN_MEM,Learning and memory,recognition memory
+COG_SPATIAL,Spatial navigation / memory,spatial navigation
+COG_SPATIAL,Spatial navigation / memory,spatial memory
+COG_SPATIAL,Spatial navigation / memory,place cells
+COG_SPATIAL,Spatial navigation / memory,grid cells
+COG_SPATIAL,Spatial navigation / memory,spatial learning
+COG_SPATIAL,Spatial navigation / memory,spatial cognition
+COG_SPATIAL,Spatial navigation / memory,navigation behavior
+COG_ATTN,Attention,attention
+COG_ATTN,Attention,attentional control
+COG_ATTN,Attention,selective attention
+COG_ATTN,Attention,sustained attention
+COG_ATTN,Attention,attentional shift
+COG_DECISION,Decision-making,decision-making
+COG_DECISION,Decision-making,value-based decision
+COG_DECISION,Decision-making,cost-benefit analysis
+COG_DECISION,Decision-making,choice behavior
+COG_DECISION,Decision-making,risk assessment
+COG_DECISION,Decision-making,impulsivity
+COG_EXEC,Executive function / working memory,working memory
+COG_EXEC,Executive function / working memory,executive function
+COG_EXEC,Executive function / working memory,cognitive flexibility
+COG_EXEC,Executive function / working memory,behavioral inhibition
+COG_EXEC,Executive function / working memory,task switching
+COG_EXEC,Executive function / working memory,goal-directed behavior
+HOMEO_AROUSAL_SLEEP,Arousal / sleep-wake regulation,arousal
+HOMEO_AROUSAL_SLEEP,Arousal / sleep-wake regulation,wakefulness
+HOMEO_AROUSAL_SLEEP,Arousal / sleep-wake regulation,sleep
+HOMEO_AROUSAL_SLEEP,Arousal / sleep-wake regulation,sleep-wake regulation
+HOMEO_AROUSAL_SLEEP,Arousal / sleep-wake regulation,vigilance
+HOMEO_AROUSAL_SLEEP,Arousal / sleep-wake regulation,alertness
+HOMEO_AROUSAL_SLEEP,Arousal / sleep-wake regulation,rem sleep
+HOMEO_AROUSAL_SLEEP,Arousal / sleep-wake regulation,non-rem sleep
+HOMEO_AROUSAL_SLEEP,Arousal / sleep-wake regulation,sleep deprivation
+HOMEO_AROUSAL_SLEEP,Arousal / sleep-wake regulation,consciousness
+HOMEO_FEED,Feeding / appetite,feeding behavior
+HOMEO_FEED,Feeding / appetite,appetite
+HOMEO_FEED,Feeding / appetite,food intake
+HOMEO_FEED,Feeding / appetite,hunger
+HOMEO_FEED,Feeding / appetite,satiety
+HOMEO_FEED,Feeding / appetite,energy balance
+HOMEO_FEED,Feeding / appetite,obesity
+HOMEO_FEED,Feeding / appetite,ingestive behavior
+HOMEO_THIRST,Thirst / fluid balance,thirst
+HOMEO_THIRST,Thirst / fluid balance,fluid balance
+HOMEO_THIRST,Thirst / fluid balance,osmoregulation
+HOMEO_THIRST,Thirst / fluid balance,drinking behavior
+HOMEO_THIRST,Thirst / fluid balance,water intake
+HOMEO_THERMO,Thermoregulation,thermoregulation
+HOMEO_THERMO,Thermoregulation,body temperature
+HOMEO_THERMO,Thermoregulation,thermal regulation
+HOMEO_THERMO,Thermoregulation,hyperthermia
+HOMEO_THERMO,Thermoregulation,hypothermia
+HOMEO_AUTONOMIC,Autonomic / visceral regulation,autonomic regulation
+HOMEO_AUTONOMIC,Autonomic / visceral regulation,cardiovascular regulation
+HOMEO_AUTONOMIC,Autonomic / visceral regulation,respiratory control
+HOMEO_AUTONOMIC,Autonomic / visceral regulation,visceral function
+HOMEO_AUTONOMIC,Autonomic / visceral regulation,sympathetic activity
+HOMEO_AUTONOMIC,Autonomic / visceral regulation,parasympathetic activity
+HOMEO_AUTONOMIC,Autonomic / visceral regulation,heart rate regulation
+HOMEO_AUTONOMIC,Autonomic / visceral regulation,blood pressure regulation
+HOMEO_CIRCADIAN,Circadian rhythm,circadian rhythm
+HOMEO_CIRCADIAN,Circadian rhythm,circadian clock
+HOMEO_CIRCADIAN,Circadian rhythm,light entrainment
+HOMEO_CIRCADIAN,Circadian rhythm,diurnal rhythm
+HOMEO_CIRCADIAN,Circadian rhythm,biological clock
+SOCIAL,Social behavior,social behavior
+SOCIAL,Social behavior,social interaction
+SOCIAL,Social behavior,social recognition
+SOCIAL,Social behavior,social memory
+SOCIAL,Social behavior,social hierarchy
+SOCIAL,Social behavior,dominance behavior
+SOCIAL,Social behavior,social approach
+PARENTAL,Parental / maternal behavior,parental behavior
+PARENTAL,Parental / maternal behavior,maternal behavior
+PARENTAL,Parental / maternal behavior,pup retrieval
+PARENTAL,Parental / maternal behavior,maternal care
+PARENTAL,Parental / maternal behavior,nurturing behavior
+MATING,Mating / reproductive behavior,mating behavior
+MATING,Mating / reproductive behavior,sexual behavior
+MATING,Mating / reproductive behavior,reproductive behavior
+MATING,Mating / reproductive behavior,pair bonding
+MATING,Mating / reproductive behavior,courtship behavior
+MATING,Mating / reproductive behavior,copulatory behavior
+ASSOC_INTEGRATION,Multisensory / associative integration,multisensory integration
+ASSOC_INTEGRATION,Multisensory / associative integration,sensorimotor integration
+ASSOC_INTEGRATION,Multisensory / associative integration,polymodal association
+ASSOC_INTEGRATION,Multisensory / associative integration,sensory integration
